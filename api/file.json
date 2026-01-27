@@ -370,7 +370,7 @@
 			]
 		},
 		{
-			"id": 154,
+			"id": 196,
 			"name": "\"scheduler/components/all-day-row-cell.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -380,7 +380,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/all-day-row-cell.d.ts",
 			"children": [
 				{
-					"id": 155,
+					"id": 197,
 					"name": "AllDayRowCell",
 					"kind": 32,
 					"kindString": "Variable",
@@ -412,7 +412,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						155
+						197
 					]
 				}
 			],
@@ -425,7 +425,7 @@
 			]
 		},
 		{
-			"id": 156,
+			"id": 198,
 			"name": "\"scheduler/components/all-day-row.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -435,7 +435,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/all-day-row.d.ts",
 			"children": [
 				{
-					"id": 157,
+					"id": 199,
 					"name": "AllDayRow",
 					"kind": 32,
 					"kindString": "Variable",
@@ -484,7 +484,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						157
+						199
 					]
 				}
 			],
@@ -497,7 +497,7 @@
 			]
 		},
 		{
-			"id": 158,
+			"id": 200,
 			"name": "\"scheduler/components/clone-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -507,7 +507,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/clone-event.d.ts",
 			"children": [
 				{
-					"id": 159,
+					"id": 201,
 					"name": "CloneEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -533,7 +533,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						159
+						201
 					]
 				}
 			],
@@ -546,7 +546,7 @@
 			]
 		},
 		{
-			"id": 160,
+			"id": 202,
 			"name": "\"scheduler/components/current-time-indicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -556,7 +556,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/current-time-indicator.d.ts",
 			"children": [
 				{
-					"id": 161,
+					"id": 203,
 					"name": "CurrentTimeIndicator",
 					"kind": 32,
 					"kindString": "Variable",
@@ -589,7 +589,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						161
+						203
 					]
 				}
 			],
@@ -602,7 +602,7 @@
 			]
 		},
 		{
-			"id": 162,
+			"id": 204,
 			"name": "\"scheduler/components/date-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -612,7 +612,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/date-header.d.ts",
 			"children": [
 				{
-					"id": 163,
+					"id": 205,
 					"name": "DateHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -638,7 +638,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						163
+						205
 					]
 				}
 			],
@@ -651,7 +651,7 @@
 			]
 		},
 		{
-			"id": 164,
+			"id": 206,
 			"name": "\"scheduler/components/day-event-clone.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -661,7 +661,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/day-event-clone.d.ts",
 			"children": [
 				{
-					"id": 165,
+					"id": 207,
 					"name": "DayEventClone",
 					"kind": 32,
 					"kindString": "Variable",
@@ -694,7 +694,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						165
+						207
 					]
 				}
 			],
@@ -707,7 +707,7 @@
 			]
 		},
 		{
-			"id": 166,
+			"id": 208,
 			"name": "\"scheduler/components/day-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -717,7 +717,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/day-event.d.ts",
 			"children": [
 				{
-					"id": 167,
+					"id": 209,
 					"name": "DayEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -750,7 +750,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						167
+						209
 					]
 				}
 			],
@@ -763,7 +763,7 @@
 			]
 		},
 		{
-			"id": 168,
+			"id": 210,
 			"name": "\"scheduler/components/drag-and-drop.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -773,7 +773,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/drag-and-drop.d.ts",
 			"children": [
 				{
-					"id": 169,
+					"id": 211,
 					"name": "DraggableEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -805,7 +805,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						169
+						211
 					]
 				}
 			],
@@ -818,7 +818,7 @@
 			]
 		},
 		{
-			"id": 170,
+			"id": 212,
 			"name": "\"scheduler/components/month-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -828,7 +828,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/month-cells.d.ts",
 			"children": [
 				{
-					"id": 171,
+					"id": 213,
 					"name": "MonthCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -861,7 +861,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						171
+						213
 					]
 				}
 			],
@@ -874,7 +874,7 @@
 			]
 		},
 		{
-			"id": 172,
+			"id": 214,
 			"name": "\"scheduler/components/month-row.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -884,7 +884,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/month-row.d.ts",
 			"children": [
 				{
-					"id": 173,
+					"id": 215,
 					"name": "MonthRow",
 					"kind": 32,
 					"kindString": "Variable",
@@ -910,7 +910,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						173
+						215
 					]
 				}
 			],
@@ -923,7 +923,7 @@
 			]
 		},
 		{
-			"id": 174,
+			"id": 216,
 			"name": "\"scheduler/components/more-indicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -933,7 +933,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/more-indicator.d.ts",
 			"children": [
 				{
-					"id": 175,
+					"id": 217,
 					"name": "MoreIndicatorProps",
 					"kind": 256,
 					"kindString": "Interface",
@@ -944,7 +944,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 177,
+							"id": 219,
 							"name": "count",
 							"kind": 1024,
 							"kindString": "Property",
@@ -964,7 +964,7 @@
 							}
 						},
 						{
-							"id": 176,
+							"id": 218,
 							"name": "date",
 							"kind": 1024,
 							"kindString": "Property",
@@ -984,7 +984,7 @@
 							}
 						},
 						{
-							"id": 178,
+							"id": 220,
 							"name": "onMoreClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1001,7 +1001,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 179,
+									"id": 221,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1010,7 +1010,7 @@
 									},
 									"signatures": [
 										{
-											"id": 180,
+											"id": 222,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1019,7 +1019,7 @@
 											},
 											"parameters": [
 												{
-													"id": 181,
+													"id": 223,
 													"name": "e",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1038,7 +1038,7 @@
 													}
 												},
 												{
-													"id": 182,
+													"id": 224,
 													"name": "date",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1068,7 +1068,7 @@
 							}
 						},
 						{
-							"id": 183,
+							"id": 225,
 							"name": "topPx",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1094,10 +1094,10 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								177,
-								176,
-								178,
-								183
+								219,
+								218,
+								220,
+								225
 							]
 						}
 					],
@@ -1110,7 +1110,7 @@
 					]
 				},
 				{
-					"id": 184,
+					"id": 226,
 					"name": "MoreIndicator",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1130,7 +1130,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 175,
+								"id": 217,
 								"name": "MoreIndicatorProps"
 							}
 						],
@@ -1143,14 +1143,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						175
+						217
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						184
+						226
 					]
 				}
 			],
@@ -3334,7 +3334,7 @@
 			]
 		},
 		{
-			"id": 185,
+			"id": 227,
 			"name": "\"scheduler/components/resizeHandlers.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3344,7 +3344,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/resizeHandlers.d.ts",
 			"children": [
 				{
-					"id": 186,
+					"id": 228,
 					"name": "ResizeHandlers",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3376,7 +3376,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						186
+						228
 					]
 				}
 			],
@@ -3389,7 +3389,7 @@
 			]
 		},
 		{
-			"id": 187,
+			"id": 229,
 			"name": "\"scheduler/components/scheduler-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3399,7 +3399,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/scheduler-header.d.ts",
 			"children": [
 				{
-					"id": 188,
+					"id": 230,
 					"name": "SchedulerHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3451,7 +3451,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						188
+						230
 					]
 				}
 			],
@@ -3464,7 +3464,7 @@
 			]
 		},
 		{
-			"id": 189,
+			"id": 231,
 			"name": "\"scheduler/components/scheduler-toolbar.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3474,7 +3474,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/scheduler-toolbar.d.ts",
 			"children": [
 				{
-					"id": 193,
+					"id": 235,
 					"name": "DateRangeButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3520,7 +3520,7 @@
 					}
 				},
 				{
-					"id": 192,
+					"id": 234,
 					"name": "NextButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3562,7 +3562,7 @@
 					}
 				},
 				{
-					"id": 191,
+					"id": 233,
 					"name": "PreviousButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3604,7 +3604,7 @@
 					}
 				},
 				{
-					"id": 195,
+					"id": 237,
 					"name": "SchedulerToolbar",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3645,7 +3645,7 @@
 					}
 				},
 				{
-					"id": 190,
+					"id": 232,
 					"name": "TodayButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3687,7 +3687,7 @@
 					}
 				},
 				{
-					"id": 194,
+					"id": 236,
 					"name": "ViewButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3734,12 +3734,12 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						193,
-						192,
-						191,
-						195,
-						190,
-						194
+						235,
+						234,
+						233,
+						237,
+						232,
+						236
 					]
 				}
 			],
@@ -3752,7 +3752,7 @@
 			]
 		},
 		{
-			"id": 196,
+			"id": 238,
 			"name": "\"scheduler/components/scheduler-tooltip.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3762,7 +3762,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/scheduler-tooltip.d.ts",
 			"children": [
 				{
-					"id": 197,
+					"id": 239,
 					"name": "SchedulerTooltip",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3809,7 +3809,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						197
+						239
 					]
 				}
 			],
@@ -3822,7 +3822,7 @@
 			]
 		},
 		{
-			"id": 198,
+			"id": 240,
 			"name": "\"scheduler/components/time-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3832,7 +3832,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/time-cells.d.ts",
 			"children": [
 				{
-					"id": 199,
+					"id": 241,
 					"name": "TimeCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3865,7 +3865,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						199
+						241
 					]
 				}
 			],
@@ -3878,7 +3878,7 @@
 			]
 		},
 		{
-			"id": 200,
+			"id": 242,
 			"name": "\"scheduler/components/time-slot-event-clone.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3888,7 +3888,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/time-slot-event-clone.d.ts",
 			"children": [
 				{
-					"id": 201,
+					"id": 243,
 					"name": "TimeSlotEventClone",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3921,7 +3921,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						201
+						243
 					]
 				}
 			],
@@ -3934,7 +3934,7 @@
 			]
 		},
 		{
-			"id": 202,
+			"id": 244,
 			"name": "\"scheduler/components/time-slot-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3944,7 +3944,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/time-slot-event.d.ts",
 			"children": [
 				{
-					"id": 203,
+					"id": 245,
 					"name": "TimeSlotEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3970,7 +3970,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						203
+						245
 					]
 				}
 			],
@@ -3983,7 +3983,7 @@
 			]
 		},
 		{
-			"id": 204,
+			"id": 246,
 			"name": "\"scheduler/components/week-day-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3993,7 +3993,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/week-day-header.d.ts",
 			"children": [
 				{
-					"id": 205,
+					"id": 247,
 					"name": "WeekDayHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4019,7 +4019,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						205
+						247
 					]
 				}
 			],
@@ -4032,7 +4032,7 @@
 			]
 		},
 		{
-			"id": 206,
+			"id": 248,
 			"name": "\"scheduler/components/work-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4042,7 +4042,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/components/work-cells.d.ts",
 			"children": [
 				{
-					"id": 207,
+					"id": 249,
 					"name": "WorkCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4068,7 +4068,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						207
+						249
 					]
 				}
 			],
@@ -4081,7 +4081,7 @@
 			]
 		},
 		{
-			"id": 208,
+			"id": 154,
 			"name": "\"scheduler/context/clone-event-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4091,7 +4091,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/context/clone-event-context.d.ts",
 			"children": [
 				{
-					"id": 209,
+					"id": 155,
 					"name": "CloneEventContextValue",
 					"kind": 256,
 					"kindString": "Interface",
@@ -4102,7 +4102,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 218,
+							"id": 164,
 							"name": "guid",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4123,12 +4123,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 218,
+								"id": 164,
 								"name": "CloneEventData.guid"
 							}
 						},
 						{
-							"id": 214,
+							"id": 160,
 							"name": "hide",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4145,7 +4145,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 215,
+									"id": 161,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4154,7 +4154,7 @@
 									},
 									"signatures": [
 										{
-											"id": 216,
+											"id": 162,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -4178,7 +4178,7 @@
 							}
 						},
 						{
-							"id": 220,
+							"id": 166,
 							"name": "isDayEvent",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4199,12 +4199,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 220,
+								"id": 166,
 								"name": "CloneEventData.isDayEvent"
 							}
 						},
 						{
-							"id": 219,
+							"id": 165,
 							"name": "segments",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4229,12 +4229,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 219,
+								"id": 165,
 								"name": "CloneEventData.segments"
 							}
 						},
 						{
-							"id": 210,
+							"id": 156,
 							"name": "show",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4251,7 +4251,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 211,
+									"id": 157,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4260,7 +4260,7 @@
 									},
 									"signatures": [
 										{
-											"id": 212,
+											"id": 158,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -4269,7 +4269,7 @@
 											},
 											"parameters": [
 												{
-													"id": 213,
+													"id": 159,
 													"name": "payload",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -4299,7 +4299,7 @@
 							}
 						},
 						{
-							"id": 217,
+							"id": 163,
 							"name": "visible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4319,7 +4319,7 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 217,
+								"id": 163,
 								"name": "CloneEventState.visible"
 							}
 						}
@@ -4329,12 +4329,12 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								218,
-								214,
-								220,
-								219,
-								210,
-								217
+								164,
+								160,
+								166,
+								165,
+								156,
+								163
 							]
 						}
 					],
@@ -4353,7 +4353,7 @@
 					]
 				},
 				{
-					"id": 221,
+					"id": 167,
 					"name": "CloneEventProvider",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4374,7 +4374,7 @@
 							{
 								"type": "reflection",
 								"declaration": {
-									"id": 222,
+									"id": 168,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4383,7 +4383,7 @@
 									},
 									"children": [
 										{
-											"id": 223,
+											"id": 169,
 											"name": "children",
 											"kind": 32,
 											"kindString": "Variable",
@@ -4408,7 +4408,7 @@
 											"title": "Variables",
 											"kind": 32,
 											"children": [
-												223
+												169
 											]
 										}
 									],
@@ -4426,7 +4426,7 @@
 					}
 				},
 				{
-					"id": 224,
+					"id": 170,
 					"name": "useCloneEventContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4444,7 +4444,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 225,
+							"id": 171,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4453,7 +4453,7 @@
 							},
 							"signatures": [
 								{
-									"id": 226,
+									"id": 172,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4462,7 +4462,7 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 209,
+										"id": 155,
 										"name": "CloneEventContextValue"
 									}
 								}
@@ -4483,15 +4483,15 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						209
+						155
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						221,
-						224
+						167,
+						170
 					]
 				}
 			],
@@ -4504,7 +4504,7 @@
 			]
 		},
 		{
-			"id": 227,
+			"id": 173,
 			"name": "\"scheduler/context/scheduler-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4514,7 +4514,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/context/scheduler-context.d.ts",
 			"children": [
 				{
-					"id": 228,
+					"id": 174,
 					"name": "SchedulerContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4551,7 +4551,7 @@
 					}
 				},
 				{
-					"id": 229,
+					"id": 175,
 					"name": "useSchedulerPropsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4578,7 +4578,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 230,
+							"id": 176,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4587,7 +4587,7 @@
 							},
 							"signatures": [
 								{
-									"id": 231,
+									"id": 177,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4617,8 +4617,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						228,
-						229
+						174,
+						175
 					]
 				}
 			],
@@ -4631,7 +4631,7 @@
 			]
 		},
 		{
-			"id": 232,
+			"id": 178,
 			"name": "\"scheduler/context/scheduler-events-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4641,7 +4641,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/context/scheduler-events-context.d.ts",
 			"children": [
 				{
-					"id": 233,
+					"id": 179,
 					"name": "SchedulerEventsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4665,7 +4665,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 234,
+											"id": 180,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4674,7 +4674,7 @@
 											},
 											"children": [
 												{
-													"id": 235,
+													"id": 181,
 													"name": "eventsData",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4704,7 +4704,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														235
+														181
 													]
 												}
 											],
@@ -4728,7 +4728,7 @@
 					}
 				},
 				{
-					"id": 236,
+					"id": 182,
 					"name": "useSchedulerEventsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4755,7 +4755,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 237,
+							"id": 183,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4764,7 +4764,7 @@
 							},
 							"signatures": [
 								{
-									"id": 238,
+									"id": 184,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4774,7 +4774,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 239,
+											"id": 185,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4783,7 +4783,7 @@
 											},
 											"children": [
 												{
-													"id": 240,
+													"id": 186,
 													"name": "eventsData",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4813,7 +4813,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														240
+														186
 													]
 												}
 											],
@@ -4844,8 +4844,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						233,
-						236
+						179,
+						182
 					]
 				}
 			],
@@ -4858,7 +4858,7 @@
 			]
 		},
 		{
-			"id": 241,
+			"id": 187,
 			"name": "\"scheduler/context/scheduler-render-dates-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4868,7 +4868,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/react-schedule-component/src/scheduler/context/scheduler-render-dates-context.d.ts",
 			"children": [
 				{
-					"id": 242,
+					"id": 188,
 					"name": "SchedulerRenderDatesContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4892,7 +4892,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 243,
+											"id": 189,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4901,7 +4901,7 @@
 											},
 											"children": [
 												{
-													"id": 244,
+													"id": 190,
 													"name": "renderDates",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4930,7 +4930,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														244
+														190
 													]
 												}
 											],
@@ -4954,7 +4954,7 @@
 					}
 				},
 				{
-					"id": 245,
+					"id": 191,
 					"name": "useSchedulerRenderDatesContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4981,7 +4981,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 246,
+							"id": 192,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4990,7 +4990,7 @@
 							},
 							"signatures": [
 								{
-									"id": 247,
+									"id": 193,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -5000,7 +5000,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 248,
+											"id": 194,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -5009,7 +5009,7 @@
 											},
 											"children": [
 												{
-													"id": 249,
+													"id": 195,
 													"name": "renderDates",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5038,7 +5038,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														249
+														195
 													]
 												}
 											],
@@ -5069,8 +5069,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						242,
-						245
+						188,
+						191
 					]
 				}
 			],
@@ -51716,25 +51716,6 @@
 				1,
 				139,
 				141,
-				154,
-				156,
-				158,
-				160,
-				162,
-				164,
-				166,
-				168,
-				170,
-				172,
-				174,
-				2200,
-				2202,
-				2204,
-				2206,
-				2215,
-				185,
-				187,
-				189,
 				196,
 				198,
 				200,
@@ -51742,9 +51723,28 @@
 				204,
 				206,
 				208,
+				210,
+				212,
+				214,
+				216,
+				2200,
+				2202,
+				2204,
+				2206,
+				2215,
 				227,
-				232,
-				241,
+				229,
+				231,
+				238,
+				240,
+				242,
+				244,
+				246,
+				248,
+				154,
+				173,
+				178,
+				187,
 				250,
 				256,
 				278,

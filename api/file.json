@@ -370,7 +370,7 @@
 			]
 		},
 		{
-			"id": 224,
+			"id": 177,
 			"name": "\"scheduler/components/all-day-row-cell.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -380,7 +380,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/all-day-row-cell.d.ts",
 			"children": [
 				{
-					"id": 225,
+					"id": 178,
 					"name": "AllDayRowCell",
 					"kind": 32,
 					"kindString": "Variable",
@@ -412,7 +412,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						225
+						178
 					]
 				}
 			],
@@ -425,7 +425,7 @@
 			]
 		},
 		{
-			"id": 226,
+			"id": 179,
 			"name": "\"scheduler/components/all-day-row.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -435,7 +435,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/all-day-row.d.ts",
 			"children": [
 				{
-					"id": 227,
+					"id": 180,
 					"name": "AllDayRow",
 					"kind": 32,
 					"kindString": "Variable",
@@ -484,7 +484,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						227
+						180
 					]
 				}
 			],
@@ -497,7 +497,7 @@
 			]
 		},
 		{
-			"id": 228,
+			"id": 181,
 			"name": "\"scheduler/components/clone-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -507,7 +507,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/clone-event.d.ts",
 			"children": [
 				{
-					"id": 229,
+					"id": 182,
 					"name": "CloneEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -533,7 +533,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						229
+						182
 					]
 				}
 			],
@@ -546,7 +546,7 @@
 			]
 		},
 		{
-			"id": 230,
+			"id": 183,
 			"name": "\"scheduler/components/current-time-indicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -556,7 +556,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/current-time-indicator.d.ts",
 			"children": [
 				{
-					"id": 231,
+					"id": 184,
 					"name": "CurrentTimeIndicator",
 					"kind": 32,
 					"kindString": "Variable",
@@ -589,7 +589,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						231
+						184
 					]
 				}
 			],
@@ -602,7 +602,7 @@
 			]
 		},
 		{
-			"id": 232,
+			"id": 185,
 			"name": "\"scheduler/components/date-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -612,7 +612,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/date-header.d.ts",
 			"children": [
 				{
-					"id": 233,
+					"id": 186,
 					"name": "DateHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -638,7 +638,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						233
+						186
 					]
 				}
 			],
@@ -651,7 +651,7 @@
 			]
 		},
 		{
-			"id": 234,
+			"id": 187,
 			"name": "\"scheduler/components/day-event-clone.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -661,7 +661,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/day-event-clone.d.ts",
 			"children": [
 				{
-					"id": 235,
+					"id": 188,
 					"name": "DayEventClone",
 					"kind": 32,
 					"kindString": "Variable",
@@ -694,7 +694,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						235
+						188
 					]
 				}
 			],
@@ -707,7 +707,7 @@
 			]
 		},
 		{
-			"id": 236,
+			"id": 189,
 			"name": "\"scheduler/components/day-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -717,7 +717,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/day-event.d.ts",
 			"children": [
 				{
-					"id": 237,
+					"id": 190,
 					"name": "DayEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -750,7 +750,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						237
+						190
 					]
 				}
 			],
@@ -763,7 +763,7 @@
 			]
 		},
 		{
-			"id": 238,
+			"id": 191,
 			"name": "\"scheduler/components/drag-and-drop.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -773,7 +773,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/drag-and-drop.d.ts",
 			"children": [
 				{
-					"id": 239,
+					"id": 192,
 					"name": "DraggableEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -805,7 +805,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						239
+						192
 					]
 				}
 			],
@@ -818,7 +818,7 @@
 			]
 		},
 		{
-			"id": 240,
+			"id": 193,
 			"name": "\"scheduler/components/month-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -828,7 +828,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/month-cells.d.ts",
 			"children": [
 				{
-					"id": 241,
+					"id": 194,
 					"name": "MonthCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -861,7 +861,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						241
+						194
 					]
 				}
 			],
@@ -874,7 +874,7 @@
 			]
 		},
 		{
-			"id": 242,
+			"id": 195,
 			"name": "\"scheduler/components/month-row.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -884,7 +884,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/month-row.d.ts",
 			"children": [
 				{
-					"id": 243,
+					"id": 196,
 					"name": "MonthRow",
 					"kind": 32,
 					"kindString": "Variable",
@@ -910,7 +910,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						243
+						196
 					]
 				}
 			],
@@ -923,7 +923,7 @@
 			]
 		},
 		{
-			"id": 244,
+			"id": 197,
 			"name": "\"scheduler/components/more-indicator.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -933,7 +933,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/more-indicator.d.ts",
 			"children": [
 				{
-					"id": 245,
+					"id": 198,
 					"name": "MoreIndicatorProps",
 					"kind": 256,
 					"kindString": "Interface",
@@ -944,7 +944,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 247,
+							"id": 200,
 							"name": "count",
 							"kind": 1024,
 							"kindString": "Property",
@@ -964,7 +964,7 @@
 							}
 						},
 						{
-							"id": 246,
+							"id": 199,
 							"name": "date",
 							"kind": 1024,
 							"kindString": "Property",
@@ -984,7 +984,7 @@
 							}
 						},
 						{
-							"id": 248,
+							"id": 201,
 							"name": "onMoreClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1001,7 +1001,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 249,
+									"id": 202,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1010,7 +1010,7 @@
 									},
 									"signatures": [
 										{
-											"id": 250,
+											"id": 203,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1019,7 +1019,7 @@
 											},
 											"parameters": [
 												{
-													"id": 251,
+													"id": 204,
 													"name": "e",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1038,7 +1038,7 @@
 													}
 												},
 												{
-													"id": 252,
+													"id": 205,
 													"name": "date",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1068,7 +1068,7 @@
 							}
 						},
 						{
-							"id": 253,
+							"id": 206,
 							"name": "topPx",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1094,10 +1094,10 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								247,
-								246,
-								248,
-								253
+								200,
+								199,
+								201,
+								206
 							]
 						}
 					],
@@ -1110,7 +1110,7 @@
 					]
 				},
 				{
-					"id": 254,
+					"id": 207,
 					"name": "MoreIndicator",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1130,7 +1130,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 245,
+								"id": 198,
 								"name": "MoreIndicatorProps"
 							}
 						],
@@ -1143,14 +1143,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						245
+						198
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						254
+						207
 					]
 				}
 			],
@@ -1163,7 +1163,7 @@
 			]
 		},
 		{
-			"id": 2305,
+			"id": 2258,
 			"name": "\"scheduler/components/popup/confirmation-dialog.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -1173,7 +1173,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/popup/confirmation-dialog.d.ts",
 			"children": [
 				{
-					"id": 2306,
+					"id": 2259,
 					"name": "ConfirmationDialog",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1219,7 +1219,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2306
+						2259
 					]
 				}
 			],
@@ -1232,7 +1232,7 @@
 			]
 		},
 		{
-			"id": 2307,
+			"id": 2260,
 			"name": "\"scheduler/components/popup/editor-popup-fields.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -1242,7 +1242,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/popup/editor-popup-fields.d.ts",
 			"children": [
 				{
-					"id": 2308,
+					"id": 2261,
 					"name": "EditorPopupFields",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1274,7 +1274,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2308
+						2261
 					]
 				}
 			],
@@ -1287,7 +1287,7 @@
 			]
 		},
 		{
-			"id": 2309,
+			"id": 2262,
 			"name": "\"scheduler/components/popup/editor-popup.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -1297,7 +1297,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/popup/editor-popup.d.ts",
 			"children": [
 				{
-					"id": 2310,
+					"id": 2263,
 					"name": "SchedulerEditorPopup",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1330,7 +1330,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2310
+						2263
 					]
 				}
 			],
@@ -1343,7 +1343,7 @@
 			]
 		},
 		{
-			"id": 2311,
+			"id": 2264,
 			"name": "\"scheduler/components/popup/more-popup.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -1353,7 +1353,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/popup/more-popup.d.ts",
 			"children": [
 				{
-					"id": 2312,
+					"id": 2265,
 					"name": "IMorePopup",
 					"kind": 256,
 					"kindString": "Interface",
@@ -1366,7 +1366,7 @@
 					},
 					"children": [
 						{
-							"id": 2313,
+							"id": 2266,
 							"name": "open",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1386,7 +1386,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2314,
+									"id": 2267,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1395,7 +1395,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2315,
+											"id": 2268,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1404,7 +1404,7 @@
 											},
 											"parameters": [
 												{
-													"id": 2316,
+													"id": 2269,
 													"name": "date",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1417,7 +1417,7 @@
 													}
 												},
 												{
-													"id": 2317,
+													"id": 2270,
 													"name": "events",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1434,7 +1434,7 @@
 													}
 												},
 												{
-													"id": 2318,
+													"id": 2271,
 													"name": "element",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1469,7 +1469,7 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								2313
+								2266
 							]
 						}
 					],
@@ -1482,7 +1482,7 @@
 					]
 				},
 				{
-					"id": 2319,
+					"id": 2272,
 					"name": "MorePopup",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1508,7 +1508,7 @@
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 2312,
+										"id": 2265,
 										"name": "IMorePopup"
 									}
 								],
@@ -1524,14 +1524,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						2312
+						2265
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2319
+						2272
 					]
 				}
 			],
@@ -1544,7 +1544,7 @@
 			]
 		},
 		{
-			"id": 2320,
+			"id": 2273,
 			"name": "\"scheduler/components/popup/quick-info-popup.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -1554,7 +1554,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/popup/quick-info-popup.d.ts",
 			"children": [
 				{
-					"id": 2336,
+					"id": 2289,
 					"name": "BaseImperativeHandleMethods",
 					"kind": 256,
 					"kindString": "Interface",
@@ -1567,7 +1567,7 @@
 					},
 					"children": [
 						{
-							"id": 2343,
+							"id": 2296,
 							"name": "element",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1596,7 +1596,7 @@
 							}
 						},
 						{
-							"id": 2340,
+							"id": 2293,
 							"name": "hide",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1613,7 +1613,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2341,
+									"id": 2294,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1622,7 +1622,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2342,
+											"id": 2295,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1646,7 +1646,7 @@
 							}
 						},
 						{
-							"id": 2337,
+							"id": 2290,
 							"name": "show",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1663,7 +1663,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2338,
+									"id": 2291,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1672,7 +1672,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2339,
+											"id": 2292,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1701,9 +1701,9 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								2343,
-								2340,
-								2337
+								2296,
+								2293,
+								2290
 							]
 						}
 					],
@@ -1716,7 +1716,7 @@
 					]
 				},
 				{
-					"id": 2355,
+					"id": 2308,
 					"name": "IQuickInfoPopup",
 					"kind": 256,
 					"kindString": "Interface",
@@ -1729,7 +1729,7 @@
 					},
 					"children": [
 						{
-							"id": 2378,
+							"id": 2331,
 							"name": "element",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1761,12 +1761,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2354,
+								"id": 2307,
 								"name": "ISchedulerPopupBase.element"
 							}
 						},
 						{
-							"id": 2375,
+							"id": 2328,
 							"name": "focus",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1787,7 +1787,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2376,
+									"id": 2329,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1796,7 +1796,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2377,
+											"id": 2330,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1820,12 +1820,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2351,
+								"id": 2304,
 								"name": "ISchedulerPopupBase.focus"
 							}
 						},
 						{
-							"id": 2356,
+							"id": 2309,
 							"name": "handleCellClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1845,7 +1845,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2357,
+									"id": 2310,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1854,7 +1854,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2358,
+											"id": 2311,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1863,7 +1863,7 @@
 											},
 											"parameters": [
 												{
-													"id": 2359,
+													"id": 2312,
 													"name": "data",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1877,7 +1877,7 @@
 													}
 												},
 												{
-													"id": 2360,
+													"id": 2313,
 													"name": "element",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -1907,7 +1907,7 @@
 							}
 						},
 						{
-							"id": 2366,
+							"id": 2319,
 							"name": "handleDelete",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1927,7 +1927,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2367,
+									"id": 2320,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1936,7 +1936,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2368,
+											"id": 2321,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1960,7 +1960,7 @@
 							}
 						},
 						{
-							"id": 2361,
+							"id": 2314,
 							"name": "handleEventClick",
 							"kind": 1024,
 							"kindString": "Property",
@@ -1980,7 +1980,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2362,
+									"id": 2315,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -1989,7 +1989,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2363,
+											"id": 2316,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -1998,7 +1998,7 @@
 											},
 											"parameters": [
 												{
-													"id": 2364,
+													"id": 2317,
 													"name": "data",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -2012,7 +2012,7 @@
 													}
 												},
 												{
-													"id": 2365,
+													"id": 2318,
 													"name": "element",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -2042,7 +2042,7 @@
 							}
 						},
 						{
-							"id": 2372,
+							"id": 2325,
 							"name": "hide",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2062,7 +2062,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2373,
+									"id": 2326,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2071,7 +2071,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2374,
+											"id": 2327,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2095,12 +2095,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2348,
+								"id": 2301,
 								"name": "ISchedulerPopupBase.hide"
 							}
 						},
 						{
-							"id": 2369,
+							"id": 2322,
 							"name": "show",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2120,7 +2120,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2370,
+									"id": 2323,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2129,7 +2129,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2371,
+											"id": 2324,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2153,7 +2153,7 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 2345,
+								"id": 2298,
 								"name": "ISchedulerPopupBase.show"
 							}
 						}
@@ -2163,13 +2163,13 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								2378,
-								2375,
-								2356,
-								2366,
-								2361,
-								2372,
-								2369
+								2331,
+								2328,
+								2309,
+								2319,
+								2314,
+								2325,
+								2322
 							]
 						}
 					],
@@ -2183,13 +2183,13 @@
 					"extendedTypes": [
 						{
 							"type": "reference",
-							"id": 2344,
+							"id": 2297,
 							"name": "ISchedulerPopupBase"
 						}
 					]
 				},
 				{
-					"id": 2344,
+					"id": 2297,
 					"name": "ISchedulerPopupBase",
 					"kind": 256,
 					"kindString": "Interface",
@@ -2202,7 +2202,7 @@
 					},
 					"children": [
 						{
-							"id": 2354,
+							"id": 2307,
 							"name": "element",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2234,7 +2234,7 @@
 							}
 						},
 						{
-							"id": 2351,
+							"id": 2304,
 							"name": "focus",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2255,7 +2255,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2352,
+									"id": 2305,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2264,7 +2264,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2353,
+											"id": 2306,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2288,7 +2288,7 @@
 							}
 						},
 						{
-							"id": 2348,
+							"id": 2301,
 							"name": "hide",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2308,7 +2308,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2349,
+									"id": 2302,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2317,7 +2317,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2350,
+											"id": 2303,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2341,7 +2341,7 @@
 							}
 						},
 						{
-							"id": 2345,
+							"id": 2298,
 							"name": "show",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2361,7 +2361,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2346,
+									"id": 2299,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2370,7 +2370,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2347,
+											"id": 2300,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2399,10 +2399,10 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								2354,
-								2351,
-								2348,
-								2345
+								2307,
+								2304,
+								2301,
+								2298
 							]
 						}
 					],
@@ -2416,13 +2416,13 @@
 					"extendedBy": [
 						{
 							"type": "reference",
-							"id": 2355,
+							"id": 2308,
 							"name": "IQuickInfoPopup"
 						}
 					]
 				},
 				{
-					"id": 2321,
+					"id": 2274,
 					"name": "PopupWrapperProps",
 					"kind": 256,
 					"kindString": "Interface",
@@ -2435,7 +2435,7 @@
 					},
 					"children": [
 						{
-							"id": 2335,
+							"id": 2288,
 							"name": "children",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2455,7 +2455,7 @@
 							}
 						},
 						{
-							"id": 2329,
+							"id": 2282,
 							"name": "onClose",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2472,7 +2472,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2330,
+									"id": 2283,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2481,7 +2481,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2331,
+											"id": 2284,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2505,7 +2505,7 @@
 							}
 						},
 						{
-							"id": 2332,
+							"id": 2285,
 							"name": "onOpen",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2523,7 +2523,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2333,
+									"id": 2286,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2532,7 +2532,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2334,
+											"id": 2287,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2556,7 +2556,7 @@
 							}
 						},
 						{
-							"id": 2324,
+							"id": 2277,
 							"name": "popupPosition",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2574,7 +2574,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2325,
+									"id": 2278,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2583,7 +2583,7 @@
 									},
 									"children": [
 										{
-											"id": 2326,
+											"id": 2279,
 											"name": "X",
 											"kind": 32,
 											"kindString": "Variable",
@@ -2603,7 +2603,7 @@
 											}
 										},
 										{
-											"id": 2327,
+											"id": 2280,
 											"name": "Y",
 											"kind": 32,
 											"kindString": "Variable",
@@ -2628,8 +2628,8 @@
 											"title": "Variables",
 											"kind": 32,
 											"children": [
-												2326,
-												2327
+												2279,
+												2280
 											]
 										}
 									],
@@ -2644,7 +2644,7 @@
 							}
 						},
 						{
-							"id": 2328,
+							"id": 2281,
 							"name": "schedulerElement",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2679,7 +2679,7 @@
 							}
 						},
 						{
-							"id": 2323,
+							"id": 2276,
 							"name": "target",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2708,7 +2708,7 @@
 							}
 						},
 						{
-							"id": 2322,
+							"id": 2275,
 							"name": "visible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2733,13 +2733,13 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								2335,
-								2329,
-								2332,
-								2324,
-								2328,
-								2323,
-								2322
+								2288,
+								2282,
+								2285,
+								2277,
+								2281,
+								2276,
+								2275
 							]
 						}
 					],
@@ -2752,7 +2752,7 @@
 					]
 				},
 				{
-					"id": 2379,
+					"id": 2332,
 					"name": "QuickInfoPopupProps",
 					"kind": 256,
 					"kindString": "Interface",
@@ -2765,7 +2765,7 @@
 					},
 					"children": [
 						{
-							"id": 2380,
+							"id": 2333,
 							"name": "onClose",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2783,7 +2783,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2381,
+									"id": 2334,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2792,7 +2792,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2382,
+											"id": 2335,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2816,7 +2816,7 @@
 							}
 						},
 						{
-							"id": 2383,
+							"id": 2336,
 							"name": "onEditEvent",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2833,7 +2833,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2384,
+									"id": 2337,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2842,7 +2842,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2385,
+											"id": 2338,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2851,7 +2851,7 @@
 											},
 											"parameters": [
 												{
-													"id": 2386,
+													"id": 2339,
 													"name": "eventData",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -2882,7 +2882,7 @@
 							}
 						},
 						{
-							"id": 2387,
+							"id": 2340,
 							"name": "onMoreDetails",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2899,7 +2899,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2388,
+									"id": 2341,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -2908,7 +2908,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2389,
+											"id": 2342,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -2917,7 +2917,7 @@
 											},
 											"parameters": [
 												{
-													"id": 2390,
+													"id": 2343,
 													"name": "cellData",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -2953,9 +2953,9 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								2380,
-								2383,
-								2387
+								2333,
+								2336,
+								2340
 							]
 						}
 					],
@@ -2968,7 +2968,7 @@
 					]
 				},
 				{
-					"id": 2398,
+					"id": 2351,
 					"name": "PopupWrapper",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3002,7 +3002,7 @@
 						"typeArguments": [
 							{
 								"type": "reference",
-								"id": 2321,
+								"id": 2274,
 								"name": "PopupWrapperProps"
 							}
 						],
@@ -3010,7 +3010,7 @@
 					}
 				},
 				{
-					"id": 2404,
+					"id": 2357,
 					"name": "QuickInfoPopup",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3036,7 +3036,7 @@
 								"types": [
 									{
 										"type": "reference",
-										"id": 2379,
+										"id": 2332,
 										"name": "QuickInfoPopupProps"
 									},
 									{
@@ -3044,7 +3044,7 @@
 										"typeArguments": [
 											{
 												"type": "reference",
-												"id": 2355,
+												"id": 2308,
 												"name": "IQuickInfoPopup"
 											}
 										],
@@ -3057,7 +3057,7 @@
 					}
 				},
 				{
-					"id": 2399,
+					"id": 2352,
 					"name": "createBaseImperativeHandle",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3094,7 +3094,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2400,
+							"id": 2353,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -3103,7 +3103,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2401,
+									"id": 2354,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -3112,7 +3112,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2402,
+											"id": 2355,
 											"name": "setVisible",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -3137,7 +3137,7 @@
 											}
 										},
 										{
-											"id": 2403,
+											"id": 2356,
 											"name": "popupElement",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -3158,7 +3158,7 @@
 									],
 									"type": {
 										"type": "reference",
-										"id": 2336,
+										"id": 2289,
 										"name": "BaseImperativeHandleMethods"
 									}
 								}
@@ -3174,7 +3174,7 @@
 					}
 				},
 				{
-					"id": 2391,
+					"id": 2344,
 					"name": "renderPopupCloseButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3211,7 +3211,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2392,
+							"id": 2345,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -3220,7 +3220,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2393,
+									"id": 2346,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -3229,7 +3229,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2394,
+											"id": 2347,
 											"name": "onClose",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -3239,7 +3239,7 @@
 											"type": {
 												"type": "reflection",
 												"declaration": {
-													"id": 2395,
+													"id": 2348,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -3248,7 +3248,7 @@
 													},
 													"signatures": [
 														{
-															"id": 2396,
+															"id": 2349,
 															"name": "__call",
 															"kind": 4096,
 															"kindString": "Call signature",
@@ -3272,7 +3272,7 @@
 											}
 										},
 										{
-											"id": 2397,
+											"id": 2350,
 											"name": "ariaLabel",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -3308,21 +3308,21 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						2336,
-						2355,
-						2344,
-						2321,
-						2379
+						2289,
+						2308,
+						2297,
+						2274,
+						2332
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2398,
-						2404,
-						2399,
-						2391
+						2351,
+						2357,
+						2352,
+						2344
 					]
 				}
 			],
@@ -3335,7 +3335,7 @@
 			]
 		},
 		{
-			"id": 255,
+			"id": 208,
 			"name": "\"scheduler/components/resizeHandlers.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3345,7 +3345,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/resizeHandlers.d.ts",
 			"children": [
 				{
-					"id": 256,
+					"id": 209,
 					"name": "ResizeHandlers",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3377,7 +3377,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						256
+						209
 					]
 				}
 			],
@@ -3390,7 +3390,7 @@
 			]
 		},
 		{
-			"id": 257,
+			"id": 210,
 			"name": "\"scheduler/components/scheduler-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3400,7 +3400,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/scheduler-header.d.ts",
 			"children": [
 				{
-					"id": 258,
+					"id": 211,
 					"name": "SchedulerHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3452,7 +3452,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						258
+						211
 					]
 				}
 			],
@@ -3465,7 +3465,7 @@
 			]
 		},
 		{
-			"id": 259,
+			"id": 212,
 			"name": "\"scheduler/components/scheduler-toolbar.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3475,7 +3475,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/scheduler-toolbar.d.ts",
 			"children": [
 				{
-					"id": 263,
+					"id": 216,
 					"name": "DateRangeButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3521,7 +3521,7 @@
 					}
 				},
 				{
-					"id": 262,
+					"id": 215,
 					"name": "NextButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3563,7 +3563,7 @@
 					}
 				},
 				{
-					"id": 261,
+					"id": 214,
 					"name": "PreviousButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3605,7 +3605,7 @@
 					}
 				},
 				{
-					"id": 265,
+					"id": 218,
 					"name": "SchedulerToolbar",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3646,7 +3646,7 @@
 					}
 				},
 				{
-					"id": 260,
+					"id": 213,
 					"name": "TodayButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3688,7 +3688,7 @@
 					}
 				},
 				{
-					"id": 264,
+					"id": 217,
 					"name": "ViewButton",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3735,12 +3735,12 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						263,
-						262,
-						261,
-						265,
-						260,
-						264
+						216,
+						215,
+						214,
+						218,
+						213,
+						217
 					]
 				}
 			],
@@ -3753,7 +3753,7 @@
 			]
 		},
 		{
-			"id": 266,
+			"id": 219,
 			"name": "\"scheduler/components/scheduler-tooltip.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3763,7 +3763,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/scheduler-tooltip.d.ts",
 			"children": [
 				{
-					"id": 267,
+					"id": 220,
 					"name": "SchedulerTooltip",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3810,7 +3810,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						267
+						220
 					]
 				}
 			],
@@ -3823,7 +3823,7 @@
 			]
 		},
 		{
-			"id": 268,
+			"id": 221,
 			"name": "\"scheduler/components/time-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3833,7 +3833,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/time-cells.d.ts",
 			"children": [
 				{
-					"id": 269,
+					"id": 222,
 					"name": "TimeCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3866,7 +3866,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						269
+						222
 					]
 				}
 			],
@@ -3879,7 +3879,7 @@
 			]
 		},
 		{
-			"id": 270,
+			"id": 223,
 			"name": "\"scheduler/components/time-slot-event-clone.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3889,7 +3889,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/time-slot-event-clone.d.ts",
 			"children": [
 				{
-					"id": 271,
+					"id": 224,
 					"name": "TimeSlotEventClone",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3922,7 +3922,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						271
+						224
 					]
 				}
 			],
@@ -3935,7 +3935,7 @@
 			]
 		},
 		{
-			"id": 272,
+			"id": 225,
 			"name": "\"scheduler/components/time-slot-event.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3945,7 +3945,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/time-slot-event.d.ts",
 			"children": [
 				{
-					"id": 273,
+					"id": 226,
 					"name": "TimeSlotEvent",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3971,7 +3971,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						273
+						226
 					]
 				}
 			],
@@ -3984,7 +3984,7 @@
 			]
 		},
 		{
-			"id": 274,
+			"id": 227,
 			"name": "\"scheduler/components/week-day-header.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -3994,7 +3994,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/week-day-header.d.ts",
 			"children": [
 				{
-					"id": 275,
+					"id": 228,
 					"name": "WeekDayHeader",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4020,7 +4020,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						275
+						228
 					]
 				}
 			],
@@ -4033,7 +4033,7 @@
 			]
 		},
 		{
-			"id": 276,
+			"id": 229,
 			"name": "\"scheduler/components/work-cells.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4043,7 +4043,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/components/work-cells.d.ts",
 			"children": [
 				{
-					"id": 277,
+					"id": 230,
 					"name": "WorkCells",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4069,7 +4069,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						277
+						230
 					]
 				}
 			],
@@ -4082,7 +4082,7 @@
 			]
 		},
 		{
-			"id": 177,
+			"id": 231,
 			"name": "\"scheduler/context/clone-event-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4092,7 +4092,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/context/clone-event-context.d.ts",
 			"children": [
 				{
-					"id": 178,
+					"id": 232,
 					"name": "CloneEventContextValue",
 					"kind": 256,
 					"kindString": "Interface",
@@ -4103,7 +4103,7 @@
 					"comment": {},
 					"children": [
 						{
-							"id": 187,
+							"id": 241,
 							"name": "guid",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4124,12 +4124,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 187,
+								"id": 241,
 								"name": "CloneEventData.guid"
 							}
 						},
 						{
-							"id": 183,
+							"id": 237,
 							"name": "hide",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4146,7 +4146,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 184,
+									"id": 238,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4155,7 +4155,7 @@
 									},
 									"signatures": [
 										{
-											"id": 185,
+											"id": 239,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -4179,7 +4179,7 @@
 							}
 						},
 						{
-							"id": 189,
+							"id": 243,
 							"name": "isDayEvent",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4200,12 +4200,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 189,
+								"id": 243,
 								"name": "CloneEventData.isDayEvent"
 							}
 						},
 						{
-							"id": 188,
+							"id": 242,
 							"name": "segments",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4230,12 +4230,12 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 188,
+								"id": 242,
 								"name": "CloneEventData.segments"
 							}
 						},
 						{
-							"id": 179,
+							"id": 233,
 							"name": "show",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4252,7 +4252,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 180,
+									"id": 234,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4261,7 +4261,7 @@
 									},
 									"signatures": [
 										{
-											"id": 181,
+											"id": 235,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -4270,7 +4270,7 @@
 											},
 											"parameters": [
 												{
-													"id": 182,
+													"id": 236,
 													"name": "payload",
 													"kind": 32768,
 													"kindString": "Parameter",
@@ -4300,7 +4300,7 @@
 							}
 						},
 						{
-							"id": 186,
+							"id": 240,
 							"name": "visible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -4320,7 +4320,7 @@
 							},
 							"inheritedFrom": {
 								"type": "reference",
-								"id": 186,
+								"id": 240,
 								"name": "CloneEventState.visible"
 							}
 						}
@@ -4330,12 +4330,12 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								187,
-								183,
-								189,
-								188,
-								179,
-								186
+								241,
+								237,
+								243,
+								242,
+								233,
+								240
 							]
 						}
 					],
@@ -4354,7 +4354,7 @@
 					]
 				},
 				{
-					"id": 190,
+					"id": 244,
 					"name": "CloneEventProvider",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4375,7 +4375,7 @@
 							{
 								"type": "reflection",
 								"declaration": {
-									"id": 191,
+									"id": 245,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -4384,7 +4384,7 @@
 									},
 									"children": [
 										{
-											"id": 192,
+											"id": 246,
 											"name": "children",
 											"kind": 32,
 											"kindString": "Variable",
@@ -4409,7 +4409,7 @@
 											"title": "Variables",
 											"kind": 32,
 											"children": [
-												192
+												246
 											]
 										}
 									],
@@ -4427,7 +4427,7 @@
 					}
 				},
 				{
-					"id": 193,
+					"id": 247,
 					"name": "useCloneEventContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4445,7 +4445,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 194,
+							"id": 248,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4454,7 +4454,7 @@
 							},
 							"signatures": [
 								{
-									"id": 195,
+									"id": 249,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4463,7 +4463,7 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 178,
+										"id": 232,
 										"name": "CloneEventContextValue"
 									}
 								}
@@ -4484,15 +4484,15 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						178
+						232
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						190,
-						193
+						244,
+						247
 					]
 				}
 			],
@@ -4505,7 +4505,7 @@
 			]
 		},
 		{
-			"id": 196,
+			"id": 250,
 			"name": "\"scheduler/context/scheduler-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4515,7 +4515,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/context/scheduler-context.d.ts",
 			"children": [
 				{
-					"id": 197,
+					"id": 251,
 					"name": "SchedulerContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4552,7 +4552,7 @@
 					}
 				},
 				{
-					"id": 198,
+					"id": 252,
 					"name": "useSchedulerPropsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4579,7 +4579,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 199,
+							"id": 253,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4588,7 +4588,7 @@
 							},
 							"signatures": [
 								{
-									"id": 200,
+									"id": 254,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4618,8 +4618,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						197,
-						198
+						251,
+						252
 					]
 				}
 			],
@@ -4632,7 +4632,7 @@
 			]
 		},
 		{
-			"id": 201,
+			"id": 255,
 			"name": "\"scheduler/context/scheduler-editor-popup-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4642,7 +4642,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/context/scheduler-editor-popup-context.d.ts",
 			"children": [
 				{
-					"id": 205,
+					"id": 259,
 					"name": "EditorProvider",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4656,18 +4656,13 @@
 						"tags": [
 							{
 								"tag": "param",
-								"text": "Props object.",
-								"param": "root0"
-							},
-							{
-								"tag": "param",
 								"text": "The editor state to provide.",
-								"param": "root0.editorState"
+								"param": "editorState"
 							},
 							{
 								"tag": "param",
 								"text": "Child nodes that will consume the context.",
-								"param": "root0.children"
+								"param": "children"
 							},
 							{
 								"tag": "returns",
@@ -4678,7 +4673,7 @@
 					"sources": [
 						{
 							"fileName": "src/scheduler/context/scheduler-editor-popup-context.d.ts",
-							"line": 26,
+							"line": 25,
 							"character": 35
 						}
 					],
@@ -4694,7 +4689,7 @@
 					}
 				},
 				{
-					"id": 202,
+					"id": 256,
 					"name": "useEditorContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4726,7 +4721,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 203,
+							"id": 257,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4735,7 +4730,7 @@
 							},
 							"signatures": [
 								{
-									"id": 204,
+									"id": 258,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4765,8 +4760,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						205,
-						202
+						259,
+						256
 					]
 				}
 			],
@@ -4779,7 +4774,7 @@
 			]
 		},
 		{
-			"id": 206,
+			"id": 260,
 			"name": "\"scheduler/context/scheduler-events-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -4789,7 +4784,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/context/scheduler-events-context.d.ts",
 			"children": [
 				{
-					"id": 207,
+					"id": 261,
 					"name": "SchedulerEventsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4813,7 +4808,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 208,
+											"id": 262,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4822,7 +4817,7 @@
 											},
 											"children": [
 												{
-													"id": 209,
+													"id": 263,
 													"name": "eventsData",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4852,7 +4847,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														209
+														263
 													]
 												}
 											],
@@ -4876,7 +4871,7 @@
 					}
 				},
 				{
-					"id": 210,
+					"id": 264,
 					"name": "useSchedulerEventsContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4903,7 +4898,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 211,
+							"id": 265,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -4912,7 +4907,7 @@
 							},
 							"signatures": [
 								{
-									"id": 212,
+									"id": 266,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -4922,7 +4917,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 213,
+											"id": 267,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -4931,7 +4926,7 @@
 											},
 											"children": [
 												{
-													"id": 214,
+													"id": 268,
 													"name": "eventsData",
 													"kind": 32,
 													"kindString": "Variable",
@@ -4961,7 +4956,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														214
+														268
 													]
 												}
 											],
@@ -4992,8 +4987,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						207,
-						210
+						261,
+						264
 					]
 				}
 			],
@@ -5006,7 +5001,7 @@
 			]
 		},
 		{
-			"id": 215,
+			"id": 269,
 			"name": "\"scheduler/context/scheduler-render-dates-context.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -5016,7 +5011,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/context/scheduler-render-dates-context.d.ts",
 			"children": [
 				{
-					"id": 216,
+					"id": 270,
 					"name": "SchedulerRenderDatesContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -5040,7 +5035,7 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 217,
+											"id": 271,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -5049,7 +5044,7 @@
 											},
 											"children": [
 												{
-													"id": 218,
+													"id": 272,
 													"name": "renderDates",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5078,7 +5073,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														218
+														272
 													]
 												}
 											],
@@ -5102,7 +5097,7 @@
 					}
 				},
 				{
-					"id": 219,
+					"id": 273,
 					"name": "useSchedulerRenderDatesContext",
 					"kind": 32,
 					"kindString": "Variable",
@@ -5129,7 +5124,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 220,
+							"id": 274,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -5138,7 +5133,7 @@
 							},
 							"signatures": [
 								{
-									"id": 221,
+									"id": 275,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -5148,7 +5143,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 222,
+											"id": 276,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -5157,7 +5152,7 @@
 											},
 											"children": [
 												{
-													"id": 223,
+													"id": 277,
 													"name": "renderDates",
 													"kind": 32,
 													"kindString": "Variable",
@@ -5186,7 +5181,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														223
+														277
 													]
 												}
 											],
@@ -5217,8 +5212,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						216,
-						219
+						270,
+						273
 					]
 				}
 			],
@@ -11209,7 +11204,7 @@
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 2355,
+										"id": 2308,
 										"name": "IQuickInfoPopup"
 									}
 								],
@@ -11312,7 +11307,7 @@
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 2355,
+										"id": 2308,
 										"name": "IQuickInfoPopup"
 									}
 								],
@@ -12408,7 +12403,7 @@
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 2355,
+										"id": 2308,
 										"name": "IQuickInfoPopup"
 									}
 								],
@@ -12438,7 +12433,7 @@
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 2355,
+										"id": 2308,
 										"name": "IQuickInfoPopup"
 									}
 								],
@@ -17318,7 +17313,7 @@
 													},
 													"type": {
 														"type": "reference",
-														"id": 2191,
+														"id": 2144,
 														"name": "HeaderIndentProps"
 													}
 												}
@@ -30646,7 +30641,7 @@
 													},
 													"type": {
 														"type": "reference",
-														"id": 2191,
+														"id": 2144,
 														"name": "HeaderIndentProps"
 													}
 												}
@@ -30867,7 +30862,7 @@
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 2312,
+										"id": 2265,
 										"name": "IMorePopup"
 									}
 								],
@@ -30968,7 +30963,7 @@
 								"typeArguments": [
 									{
 										"type": "reference",
-										"id": 2355,
+										"id": 2308,
 										"name": "IQuickInfoPopup"
 									}
 								],
@@ -36019,7 +36014,7 @@
 													},
 													"type": {
 														"type": "reference",
-														"id": 2191,
+														"id": 2144,
 														"name": "HeaderIndentProps"
 													}
 												}
@@ -38247,7 +38242,7 @@
 													},
 													"type": {
 														"type": "reference",
-														"id": 2191,
+														"id": 2144,
 														"name": "HeaderIndentProps"
 													}
 												}
@@ -39605,7 +39600,7 @@
 													},
 													"type": {
 														"type": "reference",
-														"id": 2191,
+														"id": 2144,
 														"name": "HeaderIndentProps"
 													}
 												}
@@ -40387,1170 +40382,7 @@
 					]
 				},
 				{
-					"id": 2140,
-					"name": "SchedulerEditorDialogProps",
-					"kind": 256,
-					"kindString": "Interface",
-					"flags": {
-						"isExported": true
-					},
-					"comment": {
-						"shortText": "Subset of public Dialog props accepted by SchedulerEditorPopup and passed through to Dialog."
-					},
-					"children": [
-						{
-							"id": 2157,
-							"name": "onClose",
-							"kind": 8388608,
-							"kindString": "Event",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the callback function invoked when the dialog needs to close.\nThis occurs when the user clicks the overlay, presses the ESC key,\nor clicks the close icon (if provided)."
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 179,
-									"character": 11
-								}
-							],
-							"type": {
-								"type": "reflection",
-								"declaration": {
-									"id": 2158,
-									"name": "__type",
-									"kind": 65536,
-									"kindString": "Type literal",
-									"flags": {
-										"isExported": true
-									},
-									"signatures": [
-										{
-											"id": 2159,
-											"name": "__call",
-											"kind": 4096,
-											"kindString": "Call signature",
-											"flags": {
-												"isExported": true
-											},
-											"parameters": [
-												{
-													"id": 2160,
-													"name": "event",
-													"kind": 32768,
-													"kindString": "Parameter",
-													"flags": {
-														"isExported": true,
-														"isOptional": true
-													},
-													"type": {
-														"type": "union",
-														"types": [
-															{
-																"type": "reference",
-																"name": "SyntheticEvent"
-															},
-															{
-																"type": "reference",
-																"name": "KeyboardEvent"
-															}
-														]
-													}
-												}
-											],
-											"type": {
-												"type": "intrinsic",
-												"name": "void"
-											}
-										}
-									],
-									"sources": [
-										{
-											"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-											"line": 179,
-											"character": 13
-										}
-									]
-								}
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2157,
-								"name": "DialogProps.onClose"
-							}
-						},
-						{
-							"id": 2165,
-							"name": "onDrag",
-							"kind": 8388608,
-							"kindString": "Event",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the callback function that triggers while the dialog is being dragged."
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 191,
-									"character": 10
-								}
-							],
-							"type": {
-								"type": "reflection",
-								"declaration": {
-									"id": 2166,
-									"name": "__type",
-									"kind": 65536,
-									"kindString": "Type literal",
-									"flags": {
-										"isExported": true
-									},
-									"signatures": [
-										{
-											"id": 2167,
-											"name": "__call",
-											"kind": 4096,
-											"kindString": "Call signature",
-											"flags": {
-												"isExported": true
-											},
-											"parameters": [
-												{
-													"id": 2168,
-													"name": "event",
-													"kind": 32768,
-													"kindString": "Parameter",
-													"flags": {
-														"isExported": true
-													},
-													"type": {
-														"type": "union",
-														"types": [
-															{
-																"type": "reference",
-																"name": "MouseEvent"
-															},
-															{
-																"type": "reference",
-																"name": "TouchEvent"
-															}
-														]
-													}
-												}
-											],
-											"type": {
-												"type": "intrinsic",
-												"name": "void"
-											}
-										}
-									],
-									"sources": [
-										{
-											"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-											"line": 191,
-											"character": 12
-										}
-									]
-								}
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2165,
-								"name": "DialogProps.onDrag"
-							}
-						},
-						{
-							"id": 2161,
-							"name": "onDragStart",
-							"kind": 8388608,
-							"kindString": "Event",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the callback function that triggers when the dialog starts being dragged."
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 185,
-									"character": 15
-								}
-							],
-							"type": {
-								"type": "reflection",
-								"declaration": {
-									"id": 2162,
-									"name": "__type",
-									"kind": 65536,
-									"kindString": "Type literal",
-									"flags": {
-										"isExported": true
-									},
-									"signatures": [
-										{
-											"id": 2163,
-											"name": "__call",
-											"kind": 4096,
-											"kindString": "Call signature",
-											"flags": {
-												"isExported": true
-											},
-											"parameters": [
-												{
-													"id": 2164,
-													"name": "event",
-													"kind": 32768,
-													"kindString": "Parameter",
-													"flags": {
-														"isExported": true
-													},
-													"type": {
-														"type": "reference",
-														"name": "DragEvent"
-													}
-												}
-											],
-											"type": {
-												"type": "intrinsic",
-												"name": "void"
-											}
-										}
-									],
-									"sources": [
-										{
-											"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-											"line": 185,
-											"character": 17
-										}
-									]
-								}
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2161,
-								"name": "DialogProps.onDragStart"
-							}
-						},
-						{
-							"id": 2169,
-							"name": "onDragStop",
-							"kind": 8388608,
-							"kindString": "Event",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the callback function that triggers when the dialog stops being dragged."
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 197,
-									"character": 14
-								}
-							],
-							"type": {
-								"type": "reflection",
-								"declaration": {
-									"id": 2170,
-									"name": "__type",
-									"kind": 65536,
-									"kindString": "Type literal",
-									"flags": {
-										"isExported": true
-									},
-									"signatures": [
-										{
-											"id": 2171,
-											"name": "__call",
-											"kind": 4096,
-											"kindString": "Call signature",
-											"flags": {
-												"isExported": true
-											},
-											"parameters": [
-												{
-													"id": 2172,
-													"name": "event",
-													"kind": 32768,
-													"kindString": "Parameter",
-													"flags": {
-														"isExported": true
-													},
-													"type": {
-														"type": "union",
-														"types": [
-															{
-																"type": "reference",
-																"name": "MouseEvent"
-															},
-															{
-																"type": "reference",
-																"name": "TouchEvent"
-															}
-														]
-													}
-												}
-											],
-											"type": {
-												"type": "intrinsic",
-												"name": "void"
-											}
-										}
-									],
-									"sources": [
-										{
-											"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-											"line": 197,
-											"character": 16
-										}
-									]
-								}
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2169,
-								"name": "DialogProps.onDragStop"
-							}
-						},
-						{
-							"id": 2177,
-							"name": "onResize",
-							"kind": 8388608,
-							"kindString": "Event",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the callback function that triggers while the dialog is being resized."
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 209,
-									"character": 12
-								}
-							],
-							"type": {
-								"type": "reflection",
-								"declaration": {
-									"id": 2178,
-									"name": "__type",
-									"kind": 65536,
-									"kindString": "Type literal",
-									"flags": {
-										"isExported": true
-									},
-									"signatures": [
-										{
-											"id": 2179,
-											"name": "__call",
-											"kind": 4096,
-											"kindString": "Call signature",
-											"flags": {
-												"isExported": true
-											},
-											"parameters": [
-												{
-													"id": 2180,
-													"name": "event",
-													"kind": 32768,
-													"kindString": "Parameter",
-													"flags": {
-														"isExported": true
-													},
-													"type": {
-														"type": "reference",
-														"name": "ResizeEvent"
-													}
-												}
-											],
-											"type": {
-												"type": "intrinsic",
-												"name": "void"
-											}
-										}
-									],
-									"sources": [
-										{
-											"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-											"line": 209,
-											"character": 14
-										}
-									]
-								}
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2177,
-								"name": "DialogProps.onResize"
-							}
-						},
-						{
-							"id": 2173,
-							"name": "onResizeStart",
-							"kind": 8388608,
-							"kindString": "Event",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the callback function that triggers when the dialog starts being resized."
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 203,
-									"character": 17
-								}
-							],
-							"type": {
-								"type": "reflection",
-								"declaration": {
-									"id": 2174,
-									"name": "__type",
-									"kind": 65536,
-									"kindString": "Type literal",
-									"flags": {
-										"isExported": true
-									},
-									"signatures": [
-										{
-											"id": 2175,
-											"name": "__call",
-											"kind": 4096,
-											"kindString": "Call signature",
-											"flags": {
-												"isExported": true
-											},
-											"parameters": [
-												{
-													"id": 2176,
-													"name": "event",
-													"kind": 32768,
-													"kindString": "Parameter",
-													"flags": {
-														"isExported": true
-													},
-													"type": {
-														"type": "reference",
-														"name": "ResizeEvent"
-													}
-												}
-											],
-											"type": {
-												"type": "intrinsic",
-												"name": "void"
-											}
-										}
-									],
-									"sources": [
-										{
-											"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-											"line": 203,
-											"character": 19
-										}
-									]
-								}
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2173,
-								"name": "DialogProps.onResizeStart"
-							}
-						},
-						{
-							"id": 2181,
-							"name": "onResizeStop",
-							"kind": 8388608,
-							"kindString": "Event",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the callback function that triggers when the dialog stops being resized."
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 215,
-									"character": 16
-								}
-							],
-							"type": {
-								"type": "reflection",
-								"declaration": {
-									"id": 2182,
-									"name": "__type",
-									"kind": 65536,
-									"kindString": "Type literal",
-									"flags": {
-										"isExported": true
-									},
-									"signatures": [
-										{
-											"id": 2183,
-											"name": "__call",
-											"kind": 4096,
-											"kindString": "Call signature",
-											"flags": {
-												"isExported": true
-											},
-											"parameters": [
-												{
-													"id": 2184,
-													"name": "event",
-													"kind": 32768,
-													"kindString": "Parameter",
-													"flags": {
-														"isExported": true
-													},
-													"type": {
-														"type": "reference",
-														"name": "ResizeEvent"
-													}
-												}
-											],
-											"type": {
-												"type": "intrinsic",
-												"name": "void"
-											}
-										}
-									],
-									"sources": [
-										{
-											"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-											"line": 215,
-											"character": 18
-										}
-									]
-								}
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2181,
-								"name": "DialogProps.onResizeStop"
-							}
-						},
-						{
-							"id": 2154,
-							"name": "animation",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the animation effect, duration, and delay for the dialog's entry and exit.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "{ effect: 'Fade', duration: 400, delay: 0 }\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 157,
-									"character": 13
-								}
-							],
-							"type": {
-								"type": "reference",
-								"name": "DialogAnimationProps"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2154,
-								"name": "DialogProps.animation"
-							}
-						},
-						{
-							"id": 2143,
-							"name": "className",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Adds an additional custom class name for the dialog."
-							},
-							"sources": [
-								{
-									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1436,
-									"character": 13
-								}
-							],
-							"type": {
-								"type": "intrinsic",
-								"name": "string"
-							}
-						},
-						{
-							"id": 2148,
-							"name": "closeIcon",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the close icon to display in the dialog header.\nWhen set to true, displays the default close icon. When set to a ReactNode, displays the custom icon/element provided.\nWhen set to false, no close icon is displayed.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "true\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 118,
-									"character": 13
-								}
-							],
-							"type": {
-								"type": "reference",
-								"name": "React.ReactNode"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2148,
-								"name": "DialogProps.closeIcon"
-							}
-						},
-						{
-							"id": 2150,
-							"name": "draggable",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies whether the dialog can be dragged by its header to reposition it.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "false\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 131,
-									"character": 13
-								}
-							],
-							"type": {
-								"type": "intrinsic",
-								"name": "boolean"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2150,
-								"name": "DialogProps.draggable"
-							}
-						},
-						{
-							"id": 2146,
-							"name": "footer",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the content to display in the dialog footer section.\nThis is typically used for action buttons like \"OK\", \"Cancel\", etc.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "-\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 102,
-									"character": 10
-								}
-							],
-							"type": {
-								"type": "reference",
-								"name": "React.ReactNode"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2146,
-								"name": "DialogProps.footer"
-							}
-						},
-						{
-							"id": 2156,
-							"name": "fullScreen",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies whether the dialog should expand to fill the entire viewport.\nThe dialog maintains its header, content, and footer structure but takes up the full width and height of the screen.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "false\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 171,
-									"character": 14
-								}
-							],
-							"type": {
-								"type": "intrinsic",
-								"name": "boolean"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2156,
-								"name": "DialogProps.fullScreen"
-							}
-						},
-						{
-							"id": 2145,
-							"name": "header",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the content to display in the dialog header section.\nThis can be text or any valid React node.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "-\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 95,
-									"character": 10
-								}
-							],
-							"type": {
-								"type": "reference",
-								"name": "React.ReactNode"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2145,
-								"name": "DialogProps.header"
-							}
-						},
-						{
-							"id": 2149,
-							"name": "initialFocusRef",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the element that should receive focus when the dialog opens.\nThis overrides the default focus behavior, which focuses on the first focusable element.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "-\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 125,
-									"character": 19
-								}
-							],
-							"type": {
-								"type": "reference",
-								"typeArguments": [
-									{
-										"type": "reference",
-										"name": "HTMLElement"
-									}
-								],
-								"name": "RefObject"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2149,
-								"name": "DialogProps.initialFocusRef"
-							}
-						},
-						{
-							"id": 2142,
-							"name": "minHeight",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Sets and overrides the default dialog minimum height."
-							},
-							"sources": [
-								{
-									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1432,
-									"character": 13
-								}
-							],
-							"type": {
-								"type": "union",
-								"types": [
-									{
-										"type": "intrinsic",
-										"name": "string"
-									},
-									{
-										"type": "intrinsic",
-										"name": "number"
-									}
-								]
-							}
-						},
-						{
-							"id": 2147,
-							"name": "modal",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies if the dialog should behave as a modal.\nWhen true, an overlay prevents interaction with the underlying content, traps focus within the dialog, and blocks scrolling of the background content.\nWhen false, the dialog appears without an overlay and allows interaction with the page behind it.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "true\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 110,
-									"character": 9
-								}
-							],
-							"type": {
-								"type": "intrinsic",
-								"name": "boolean"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2147,
-								"name": "DialogProps.modal"
-							}
-						},
-						{
-							"id": 2144,
-							"name": "open",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true
-							},
-							"comment": {
-								"shortText": "Specifies whether the dialog is displayed (true) or hidden (false).\nThis is a controlled property that must be managed by the parent component.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "false\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 88,
-									"character": 8
-								}
-							],
-							"type": {
-								"type": "intrinsic",
-								"name": "boolean"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2144,
-								"name": "DialogProps.open"
-							}
-						},
-						{
-							"id": 2153,
-							"name": "position",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the positioning of the dialog on the screen.\nUses predefined positions or custom coordinates via style properties.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "'Center'\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 151,
-									"character": 12
-								}
-							],
-							"type": {
-								"type": "reference",
-								"name": "DialogPosition"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2153,
-								"name": "DialogProps.position"
-							}
-						},
-						{
-							"id": 2151,
-							"name": "resizable",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies whether the dialog can be resized by dragging its edges or corners.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "false\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 137,
-									"character": 13
-								}
-							],
-							"type": {
-								"type": "intrinsic",
-								"name": "boolean"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2151,
-								"name": "DialogProps.resizable"
-							}
-						},
-						{
-							"id": 2152,
-							"name": "resizeHandles",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies which edges or corners of the dialog can be dragged to resize it.\nOnly applies when the resizable is true.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "['SouthEast']\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 144,
-									"character": 17
-								}
-							],
-							"type": {
-								"type": "array",
-								"elementType": {
-									"type": "reference",
-									"name": "ResizeDirections"
-								}
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2152,
-								"name": "DialogProps.resizeHandles"
-							}
-						},
-						{
-							"id": 2155,
-							"name": "target",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Specifies the element where the dialog should be rendered.\nBy default, dialogs are rendered at the document body, but this prop allows to render the dialog within any element.",
-								"tags": [
-									{
-										"tag": "default",
-										"text": "document.body\n"
-									}
-								]
-							},
-							"sources": [
-								{
-									"fileName": "node_modules/@syncfusion/react-popups/src/dialog/dialog.d.ts",
-									"line": 164,
-									"character": 10
-								}
-							],
-							"type": {
-								"type": "reference",
-								"name": "HTMLElement"
-							},
-							"inheritedFrom": {
-								"type": "reference",
-								"id": 2155,
-								"name": "DialogProps.target"
-							}
-						},
-						{
-							"id": 2141,
-							"name": "width",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Sets and overrides the default dialog width."
-							},
-							"sources": [
-								{
-									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1428,
-									"character": 9
-								}
-							],
-							"type": {
-								"type": "union",
-								"types": [
-									{
-										"type": "intrinsic",
-										"name": "string"
-									},
-									{
-										"type": "intrinsic",
-										"name": "number"
-									}
-								]
-							}
-						}
-					],
-					"groups": [
-						{
-							"title": "Events",
-							"kind": 8388608,
-							"children": [
-								2157,
-								2165,
-								2161,
-								2169,
-								2177,
-								2173,
-								2181
-							]
-						},
-						{
-							"title": "Properties",
-							"kind": 1024,
-							"children": [
-								2154,
-								2143,
-								2148,
-								2150,
-								2146,
-								2156,
-								2145,
-								2149,
-								2142,
-								2147,
-								2144,
-								2153,
-								2151,
-								2152,
-								2155,
-								2141
-							]
-						}
-					],
-					"sources": [
-						{
-							"fileName": "src/scheduler/types/scheduler-types.d.ts",
-							"line": 1424,
-							"character": 43
-						}
-					],
-					"extendedTypes": [
-						{
-							"type": "reference",
-							"name": "DialogProps"
-						}
-					]
-				},
-				{
-					"id": 2185,
+					"id": 2138,
 					"name": "SchedulerEditorField",
 					"kind": 256,
 					"kindString": "Interface",
@@ -41562,7 +40394,7 @@
 					},
 					"children": [
 						{
-							"id": 2188,
+							"id": 2141,
 							"name": "className",
 							"kind": 1024,
 							"kindString": "Property",
@@ -41576,7 +40408,7 @@
 							"sources": [
 								{
 									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1454,
+									"line": 1429,
 									"character": 13
 								}
 							],
@@ -41586,7 +40418,7 @@
 							}
 						},
 						{
-							"id": 2189,
+							"id": 2142,
 							"name": "component",
 							"kind": 1024,
 							"kindString": "Property",
@@ -41600,7 +40432,7 @@
 							"sources": [
 								{
 									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1458,
+									"line": 1433,
 									"character": 13
 								}
 							],
@@ -41610,7 +40442,7 @@
 							}
 						},
 						{
-							"id": 2186,
+							"id": 2139,
 							"name": "name",
 							"kind": 1024,
 							"kindString": "Property",
@@ -41623,7 +40455,7 @@
 							"sources": [
 								{
 									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1445,
+									"line": 1420,
 									"character": 8
 								}
 							],
@@ -41633,7 +40465,7 @@
 							}
 						},
 						{
-							"id": 2190,
+							"id": 2143,
 							"name": "props",
 							"kind": 1024,
 							"kindString": "Property",
@@ -41647,7 +40479,7 @@
 							"sources": [
 								{
 									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1462,
+									"line": 1437,
 									"character": 9
 								}
 							],
@@ -41667,7 +40499,7 @@
 							}
 						},
 						{
-							"id": 2187,
+							"id": 2140,
 							"name": "visible",
 							"kind": 1024,
 							"kindString": "Property",
@@ -41687,7 +40519,7 @@
 							"sources": [
 								{
 									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1450,
+									"line": 1425,
 									"character": 11
 								}
 							],
@@ -41702,18 +40534,18 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								2188,
-								2189,
-								2186,
-								2190,
-								2187
+								2141,
+								2142,
+								2139,
+								2143,
+								2140
 							]
 						}
 					],
 					"sources": [
 						{
 							"fileName": "src/scheduler/types/scheduler-types.d.ts",
-							"line": 1441,
+							"line": 1416,
 							"character": 37
 						}
 					]
@@ -41731,7 +40563,7 @@
 					},
 					"children": [
 						{
-							"id": 2139,
+							"id": 2137,
 							"name": "children",
 							"kind": 1024,
 							"kindString": "Property",
@@ -41745,7 +40577,7 @@
 							"sources": [
 								{
 									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1419,
+									"line": 1411,
 									"character": 12
 								}
 							],
@@ -41755,7 +40587,7 @@
 							}
 						},
 						{
-							"id": 2137,
+							"id": 2135,
 							"name": "className",
 							"kind": 1024,
 							"kindString": "Property",
@@ -41764,12 +40596,12 @@
 								"isOptional": true
 							},
 							"comment": {
-								"shortText": "Additional CSS class name applied to the editor container."
+								"shortText": "Additional class name applied to the editor container."
 							},
 							"sources": [
 								{
 									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1411,
+									"line": 1403,
 									"character": 13
 								}
 							],
@@ -41799,8 +40631,7 @@
 							],
 							"type": {
 								"type": "reference",
-								"id": 2140,
-								"name": "SchedulerEditorDialogProps"
+								"name": "DialogProps"
 							}
 						},
 						{
@@ -41812,7 +40643,7 @@
 								"isExported": true
 							},
 							"comment": {
-								"shortText": "Editor state and handlers."
+								"shortText": "Editor state."
 							},
 							"sources": [
 								{
@@ -41828,7 +40659,7 @@
 							}
 						},
 						{
-							"id": 2135,
+							"id": 2133,
 							"name": "fields",
 							"kind": 1024,
 							"kindString": "Property",
@@ -41837,59 +40668,7 @@
 								"isOptional": true
 							},
 							"comment": {
-								"shortText": "Field pipeline controlling order, visibility, labels, component overrides, and field-level props."
-							},
-							"sources": [
-								{
-									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1403,
-									"character": 10
-								}
-							],
-							"type": {
-								"type": "array",
-								"elementType": {
-									"type": "reference",
-									"id": 2185,
-									"name": "SchedulerEditorField"
-								}
-							}
-						},
-						{
-							"id": 2134,
-							"name": "footer",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Optional full footer override for the Dialog. Replaces default footer buttons when provided."
-							},
-							"sources": [
-								{
-									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1399,
-									"character": 10
-								}
-							],
-							"type": {
-								"type": "reference",
-								"name": "React.ReactNode"
-							}
-						},
-						{
-							"id": 2133,
-							"name": "header",
-							"kind": 1024,
-							"kindString": "Property",
-							"flags": {
-								"isExported": true,
-								"isOptional": true
-							},
-							"comment": {
-								"shortText": "Optional full header override for the Dialog. Replaces default header when provided."
+								"shortText": "Field pipeline visibility, component overrides, and field-level props."
 							},
 							"sources": [
 								{
@@ -41899,8 +40678,12 @@
 								}
 							],
 							"type": {
-								"type": "reference",
-								"name": "React.ReactNode"
+								"type": "array",
+								"elementType": {
+									"type": "reference",
+									"id": 2138,
+									"name": "SchedulerEditorField"
+								}
 							}
 						},
 						{
@@ -41980,7 +40763,7 @@
 							}
 						},
 						{
-							"id": 2138,
+							"id": 2136,
 							"name": "style",
 							"kind": 1024,
 							"kindString": "Property",
@@ -41994,7 +40777,7 @@
 							"sources": [
 								{
 									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1415,
+									"line": 1407,
 									"character": 9
 								}
 							],
@@ -42004,7 +40787,7 @@
 							}
 						},
 						{
-							"id": 2136,
+							"id": 2134,
 							"name": "validationRules",
 							"kind": 1024,
 							"kindString": "Property",
@@ -42018,7 +40801,7 @@
 							"sources": [
 								{
 									"fileName": "src/scheduler/types/scheduler-types.d.ts",
-									"line": 1407,
+									"line": 1399,
 									"character": 19
 								}
 							],
@@ -42033,17 +40816,15 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								2139,
 								2137,
+								2135,
 								2132,
 								2131,
-								2135,
-								2134,
 								2133,
 								2128,
 								2127,
-								2138,
-								2136
+								2136,
+								2134
 							]
 						}
 					],
@@ -45237,7 +44018,7 @@
 													},
 													"type": {
 														"type": "reference",
-														"id": 2191,
+														"id": 2144,
 														"name": "HeaderIndentProps"
 													}
 												}
@@ -49144,7 +47925,7 @@
 													},
 													"type": {
 														"type": "reference",
-														"id": 2191,
+														"id": 2144,
 														"name": "HeaderIndentProps"
 													}
 												}
@@ -50302,7 +49083,7 @@
 													},
 													"type": {
 														"type": "reference",
-														"id": 2191,
+														"id": 2144,
 														"name": "HeaderIndentProps"
 													}
 												}
@@ -51388,7 +50169,7 @@
 													},
 													"type": {
 														"type": "reference",
-														"id": 2191,
+														"id": 2144,
 														"name": "HeaderIndentProps"
 													}
 												}
@@ -51787,7 +50568,7 @@
 					]
 				},
 				{
-					"id": 2191,
+					"id": 2144,
 					"name": "HeaderIndentProps",
 					"kind": 4194304,
 					"kindString": "Type alias",
@@ -51804,7 +50585,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2192,
+							"id": 2145,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -51813,7 +50594,7 @@
 							},
 							"children": [
 								{
-									"id": 2193,
+									"id": 2146,
 									"name": "weekNumber",
 									"kind": 32,
 									"kindString": "Variable",
@@ -51851,7 +50632,7 @@
 									"title": "Variables",
 									"kind": 32,
 									"children": [
-										2193
+										2146
 									]
 								}
 							],
@@ -51892,8 +50673,7 @@
 						2002,
 						1970,
 						1687,
-						2140,
-						2185,
+						2138,
 						2126,
 						1543,
 						2117,
@@ -51922,7 +50702,7 @@
 					"title": "Type aliases",
 					"kind": 4194304,
 					"children": [
-						2191
+						2144
 					]
 				}
 			],
@@ -51935,7 +50715,7 @@
 			]
 		},
 		{
-			"id": 2204,
+			"id": 2147,
 			"name": "\"scheduler/utils/actions.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -51945,7 +50725,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/utils/actions.d.ts",
 			"children": [
 				{
-					"id": 2205,
+					"id": 2148,
 					"name": "clearAndSelect",
 					"kind": 32,
 					"kindString": "Variable",
@@ -51963,7 +50743,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2206,
+							"id": 2149,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -51972,7 +50752,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2207,
+									"id": 2150,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -51981,7 +50761,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2208,
+											"id": 2151,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52011,7 +50791,7 @@
 					}
 				},
 				{
-					"id": 2215,
+					"id": 2158,
 					"name": "clearAndSelectAppointment",
 					"kind": 32,
 					"kindString": "Variable",
@@ -52029,7 +50809,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2216,
+							"id": 2159,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -52038,7 +50818,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2217,
+									"id": 2160,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -52047,7 +50827,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2218,
+											"id": 2161,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52077,7 +50857,7 @@
 					}
 				},
 				{
-					"id": 2224,
+					"id": 2167,
 					"name": "getCellDetails",
 					"kind": 32,
 					"kindString": "Variable",
@@ -52095,7 +50875,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2225,
+							"id": 2168,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -52104,7 +50884,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2226,
+									"id": 2169,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -52113,7 +50893,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2227,
+											"id": 2170,
 											"name": "input",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52139,7 +50919,7 @@
 											}
 										},
 										{
-											"id": 2228,
+											"id": 2171,
 											"name": "timeScale",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52160,7 +50940,7 @@
 											{
 												"type": "reflection",
 												"declaration": {
-													"id": 2229,
+													"id": 2172,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
@@ -52169,7 +50949,7 @@
 													},
 													"children": [
 														{
-															"id": 2233,
+															"id": 2176,
 															"name": "element",
 															"kind": 32,
 															"kindString": "Variable",
@@ -52189,7 +50969,7 @@
 															}
 														},
 														{
-															"id": 2231,
+															"id": 2174,
 															"name": "endTime",
 															"kind": 32,
 															"kindString": "Variable",
@@ -52210,7 +50990,7 @@
 															}
 														},
 														{
-															"id": 2232,
+															"id": 2175,
 															"name": "isAllDay",
 															"kind": 32,
 															"kindString": "Variable",
@@ -52230,7 +51010,7 @@
 															}
 														},
 														{
-															"id": 2230,
+															"id": 2173,
 															"name": "startTime",
 															"kind": 32,
 															"kindString": "Variable",
@@ -52256,10 +51036,10 @@
 															"title": "Variables",
 															"kind": 32,
 															"children": [
-																2233,
-																2231,
-																2232,
-																2230
+																2176,
+																2174,
+																2175,
+																2173
 															]
 														}
 													],
@@ -52291,7 +51071,7 @@
 					}
 				},
 				{
-					"id": 2209,
+					"id": 2152,
 					"name": "getCellFromIndex",
 					"kind": 32,
 					"kindString": "Variable",
@@ -52309,7 +51089,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2210,
+							"id": 2153,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -52318,7 +51098,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2211,
+									"id": 2154,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -52327,7 +51107,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2212,
+											"id": 2155,
 											"name": "root",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52353,7 +51133,7 @@
 											}
 										},
 										{
-											"id": 2213,
+											"id": 2156,
 											"name": "rowIndex",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52366,7 +51146,7 @@
 											}
 										},
 										{
-											"id": 2214,
+											"id": 2157,
 											"name": "colIndex",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52405,7 +51185,7 @@
 					}
 				},
 				{
-					"id": 2219,
+					"id": 2162,
 					"name": "getSelectedEvents",
 					"kind": 32,
 					"kindString": "Variable",
@@ -52423,7 +51203,7 @@
 					"type": {
 						"type": "reflection",
 						"declaration": {
-							"id": 2220,
+							"id": 2163,
 							"name": "__type",
 							"kind": 65536,
 							"kindString": "Type literal",
@@ -52432,7 +51212,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2221,
+									"id": 2164,
 									"name": "__call",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -52441,7 +51221,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2222,
+											"id": 2165,
 											"name": "eventsData",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52458,7 +51238,7 @@
 											}
 										},
 										{
-											"id": 2223,
+											"id": 2166,
 											"name": "schedulerElement",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52495,11 +51275,11 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2205,
-						2215,
-						2224,
-						2209,
-						2219
+						2148,
+						2158,
+						2167,
+						2152,
+						2162
 					]
 				}
 			],
@@ -52512,7 +51292,7 @@
 			]
 		},
 		{
-			"id": 2234,
+			"id": 2177,
 			"name": "\"scheduler/utils/clone-manager.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -52522,7 +51302,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/utils/clone-manager.d.ts",
 			"children": [
 				{
-					"id": 2235,
+					"id": 2178,
 					"name": "CloneBase",
 					"kind": 128,
 					"kindString": "Class",
@@ -52531,7 +51311,7 @@
 					},
 					"children": [
 						{
-							"id": 2241,
+							"id": 2184,
 							"name": "cellWidth",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52551,7 +51331,7 @@
 							}
 						},
 						{
-							"id": 2247,
+							"id": 2190,
 							"name": "cloneRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52571,7 +51351,7 @@
 							}
 						},
 						{
-							"id": 2253,
+							"id": 2196,
 							"name": "currentCell",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52591,7 +51371,7 @@
 							}
 						},
 						{
-							"id": 2246,
+							"id": 2189,
 							"name": "direction",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52611,7 +51391,7 @@
 							}
 						},
 						{
-							"id": 2252,
+							"id": 2195,
 							"name": "enableScroll",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52631,7 +51411,7 @@
 							}
 						},
 						{
-							"id": 2249,
+							"id": 2192,
 							"name": "eventSettings",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52652,7 +51432,7 @@
 							}
 						},
 						{
-							"id": 2248,
+							"id": 2191,
 							"name": "eventsData",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52676,7 +51456,7 @@
 							}
 						},
 						{
-							"id": 2271,
+							"id": 2214,
 							"name": "getCell",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52697,7 +51477,7 @@
 							}
 						},
 						{
-							"id": 2237,
+							"id": 2180,
 							"name": "isActionPerformed",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52717,7 +51497,7 @@
 							}
 						},
 						{
-							"id": 2245,
+							"id": 2188,
 							"name": "isAllDaySource",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52737,7 +51517,7 @@
 							}
 						},
 						{
-							"id": 2244,
+							"id": 2187,
 							"name": "isMonthView",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52757,7 +51537,7 @@
 							}
 						},
 						{
-							"id": 2250,
+							"id": 2193,
 							"name": "minScrollSpeed",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52777,7 +51557,7 @@
 							}
 						},
 						{
-							"id": 2251,
+							"id": 2194,
 							"name": "minScrollThreshold",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52797,7 +51577,7 @@
 							}
 						},
 						{
-							"id": 2238,
+							"id": 2181,
 							"name": "removeDocListenersRef",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52814,7 +51594,7 @@
 							"type": {
 								"type": "reflection",
 								"declaration": {
-									"id": 2239,
+									"id": 2182,
 									"name": "__type",
 									"kind": 65536,
 									"kindString": "Type literal",
@@ -52823,7 +51603,7 @@
 									},
 									"signatures": [
 										{
-											"id": 2240,
+											"id": 2183,
 											"name": "__call",
 											"kind": 4096,
 											"kindString": "Call signature",
@@ -52847,7 +51627,7 @@
 							}
 						},
 						{
-							"id": 2242,
+							"id": 2185,
 							"name": "scrollInterval",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52867,7 +51647,7 @@
 							}
 						},
 						{
-							"id": 2243,
+							"id": 2186,
 							"name": "slotInterval",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52887,7 +51667,7 @@
 							}
 						},
 						{
-							"id": 2236,
+							"id": 2179,
 							"name": "currentActionName",
 							"kind": 1024,
 							"kindString": "Property",
@@ -52908,7 +51688,7 @@
 							}
 						},
 						{
-							"id": 2285,
+							"id": 2228,
 							"name": "addDocSuppressors",
 							"kind": 2048,
 							"kindString": "Method",
@@ -52917,7 +51697,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2286,
+									"id": 2229,
 									"name": "addDocSuppressors",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -52939,7 +51719,7 @@
 							]
 						},
 						{
-							"id": 2278,
+							"id": 2221,
 							"name": "cloneFromSource",
 							"kind": 2048,
 							"kindString": "Method",
@@ -52948,7 +51728,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2279,
+									"id": 2222,
 									"name": "cloneFromSource",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -52957,7 +51737,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2280,
+											"id": 2223,
 											"name": "source",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -52970,7 +51750,7 @@
 											}
 										},
 										{
-											"id": 2281,
+											"id": 2224,
 											"name": "eventDrag",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53009,7 +51789,7 @@
 							]
 						},
 						{
-							"id": 2275,
+							"id": 2218,
 							"name": "getCellUnderClone",
 							"kind": 2048,
 							"kindString": "Method",
@@ -53018,7 +51798,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2276,
+									"id": 2219,
 									"name": "getCellUnderClone",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -53027,7 +51807,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2277,
+											"id": 2220,
 											"name": "elementRef",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53073,7 +51853,7 @@
 							]
 						},
 						{
-							"id": 2272,
+							"id": 2215,
 							"name": "getCellUnderPointer",
 							"kind": 2048,
 							"kindString": "Method",
@@ -53082,7 +51862,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2273,
+									"id": 2216,
 									"name": "getCellUnderPointer",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -53091,7 +51871,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2274,
+											"id": 2217,
 											"name": "nativeEvent",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53137,7 +51917,7 @@
 							]
 						},
 						{
-							"id": 2264,
+							"id": 2207,
 							"name": "getContentWrap",
 							"kind": 2048,
 							"kindString": "Method",
@@ -53146,7 +51926,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2265,
+									"id": 2208,
 									"name": "getContentWrap",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -53155,7 +51935,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2266,
+											"id": 2209,
 											"name": "from",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53201,7 +51981,7 @@
 							]
 						},
 						{
-							"id": 2267,
+							"id": 2210,
 							"name": "getCurrentTargetDate",
 							"kind": 2048,
 							"kindString": "Method",
@@ -53210,7 +51990,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2268,
+									"id": 2211,
 									"name": "getCurrentTargetDate",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -53219,7 +51999,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2269,
+											"id": 2212,
 											"name": "target",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53241,7 +52021,7 @@
 											}
 										},
 										{
-											"id": 2270,
+											"id": 2213,
 											"name": "cell",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53287,7 +52067,7 @@
 							]
 						},
 						{
-							"id": 2258,
+							"id": 2201,
 							"name": "getPointerCoordinates",
 							"kind": 2048,
 							"kindString": "Method",
@@ -53296,7 +52076,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2259,
+									"id": 2202,
 									"name": "getPointerCoordinates",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -53305,7 +52085,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2260,
+											"id": 2203,
 											"name": "nativeEvent",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53334,7 +52114,7 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 2261,
+											"id": 2204,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
@@ -53343,7 +52123,7 @@
 											},
 											"children": [
 												{
-													"id": 2262,
+													"id": 2205,
 													"name": "clientX",
 													"kind": 32,
 													"kindString": "Variable",
@@ -53372,7 +52152,7 @@
 													}
 												},
 												{
-													"id": 2263,
+													"id": 2206,
 													"name": "clientY",
 													"kind": 32,
 													"kindString": "Variable",
@@ -53406,8 +52186,8 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														2262,
-														2263
+														2205,
+														2206
 													]
 												}
 											],
@@ -53431,7 +52211,7 @@
 							]
 						},
 						{
-							"id": 2254,
+							"id": 2197,
 							"name": "performAutoScrolling",
 							"kind": 2048,
 							"kindString": "Method",
@@ -53440,7 +52220,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2255,
+									"id": 2198,
 									"name": "performAutoScrolling",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -53449,7 +52229,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2256,
+											"id": 2199,
 											"name": "e",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53471,7 +52251,7 @@
 											}
 										},
 										{
-											"id": 2257,
+											"id": 2200,
 											"name": "elementEl",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53499,7 +52279,7 @@
 							]
 						},
 						{
-							"id": 2282,
+							"id": 2225,
 							"name": "suppressEvent",
 							"kind": 2048,
 							"kindString": "Method",
@@ -53508,7 +52288,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2283,
+									"id": 2226,
 									"name": "suppressEvent",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -53517,7 +52297,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2284,
+											"id": 2227,
 											"name": "e",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53545,7 +52325,7 @@
 							]
 						},
 						{
-							"id": 2287,
+							"id": 2230,
 							"name": "updateDatasource",
 							"kind": 2048,
 							"kindString": "Method",
@@ -53554,7 +52334,7 @@
 							},
 							"signatures": [
 								{
-									"id": 2288,
+									"id": 2231,
 									"name": "updateDatasource",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -53563,7 +52343,7 @@
 									},
 									"parameters": [
 										{
-											"id": 2289,
+											"id": 2232,
 											"name": "original",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53577,7 +52357,7 @@
 											}
 										},
 										{
-											"id": 2290,
+											"id": 2233,
 											"name": "newStartTime",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53590,7 +52370,7 @@
 											}
 										},
 										{
-											"id": 2291,
+											"id": 2234,
 											"name": "newEndTime",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53603,7 +52383,7 @@
 											}
 										},
 										{
-											"id": 2292,
+											"id": 2235,
 											"name": "schedulerRef",
 											"kind": 32768,
 											"kindString": "Parameter",
@@ -53644,39 +52424,39 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								2241,
-								2247,
-								2253,
-								2246,
-								2252,
-								2249,
-								2248,
-								2271,
-								2237,
-								2245,
-								2244,
-								2250,
-								2251,
-								2238,
-								2242,
-								2243,
-								2236
+								2184,
+								2190,
+								2196,
+								2189,
+								2195,
+								2192,
+								2191,
+								2214,
+								2180,
+								2188,
+								2187,
+								2193,
+								2194,
+								2181,
+								2185,
+								2186,
+								2179
 							]
 						},
 						{
 							"title": "Methods",
 							"kind": 2048,
 							"children": [
-								2285,
-								2278,
-								2275,
-								2272,
-								2264,
-								2267,
-								2258,
-								2254,
-								2282,
-								2287
+								2228,
+								2221,
+								2218,
+								2215,
+								2207,
+								2210,
+								2201,
+								2197,
+								2225,
+								2230
 							]
 						}
 					],
@@ -53694,7 +52474,7 @@
 					"title": "Classes",
 					"kind": 128,
 					"children": [
-						2235
+						2178
 					]
 				}
 			],
@@ -53707,7 +52487,7 @@
 			]
 		},
 		{
-			"id": 2293,
+			"id": 2236,
 			"name": "\"scheduler/utils/default-props.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -53717,7 +52497,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/utils/default-props.d.ts",
 			"children": [
 				{
-					"id": 2294,
+					"id": 2237,
 					"name": "defaultSchedulerProps",
 					"kind": 32,
 					"kindString": "Variable",
@@ -53750,7 +52530,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2294
+						2237
 					]
 				}
 			],
@@ -53763,7 +52543,7 @@
 			]
 		},
 		{
-			"id": 2295,
+			"id": 2238,
 			"name": "\"scheduler/utils/merge-utils.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -53773,7 +52553,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/utils/merge-utils.d.ts",
 			"children": [
 				{
-					"id": 2296,
+					"id": 2239,
 					"name": "deepMerge",
 					"kind": 64,
 					"kindString": "Function",
@@ -53783,7 +52563,7 @@
 					},
 					"signatures": [
 						{
-							"id": 2297,
+							"id": 2240,
 							"name": "deepMerge",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -53803,7 +52583,7 @@
 							},
 							"typeParameter": [
 								{
-									"id": 2298,
+									"id": 2241,
 									"name": "T",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -53818,7 +52598,7 @@
 							],
 							"parameters": [
 								{
-									"id": 2299,
+									"id": 2242,
 									"name": "target",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53838,7 +52618,7 @@
 									}
 								},
 								{
-									"id": 2300,
+									"id": 2243,
 									"name": "source",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53883,7 +52663,7 @@
 					]
 				},
 				{
-					"id": 2301,
+					"id": 2244,
 					"name": "mergeSchedulerProps",
 					"kind": 64,
 					"kindString": "Function",
@@ -53893,7 +52673,7 @@
 					},
 					"signatures": [
 						{
-							"id": 2302,
+							"id": 2245,
 							"name": "mergeSchedulerProps",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -53907,7 +52687,7 @@
 							},
 							"parameters": [
 								{
-									"id": 2303,
+									"id": 2246,
 									"name": "defaultProps",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53930,7 +52710,7 @@
 									}
 								},
 								{
-									"id": 2304,
+									"id": 2247,
 									"name": "userProps",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -53980,8 +52760,8 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						2296,
-						2301
+						2239,
+						2244
 					]
 				}
 			],
@@ -53994,7 +52774,7 @@
 			]
 		},
 		{
-			"id": 2194,
+			"id": 2248,
 			"name": "\"scheduler/views/day-view.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -54004,7 +52784,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/views/day-view.d.ts",
 			"children": [
 				{
-					"id": 2195,
+					"id": 2249,
 					"name": "DayView",
 					"kind": 32,
 					"kindString": "Variable",
@@ -54037,7 +52817,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2195
+						2249
 					]
 				}
 			],
@@ -54050,7 +52830,7 @@
 			]
 		},
 		{
-			"id": 2196,
+			"id": 2250,
 			"name": "\"scheduler/views/month-view.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -54060,7 +52840,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/views/month-view.d.ts",
 			"children": [
 				{
-					"id": 2197,
+					"id": 2251,
 					"name": "MonthView",
 					"kind": 32,
 					"kindString": "Variable",
@@ -54093,7 +52873,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2197
+						2251
 					]
 				}
 			],
@@ -54106,7 +52886,7 @@
 			]
 		},
 		{
-			"id": 2198,
+			"id": 2252,
 			"name": "\"scheduler/views/vertical-view.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -54116,7 +52896,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/views/vertical-view.d.ts",
 			"children": [
 				{
-					"id": 2199,
+					"id": 2253,
 					"name": "VerticalView",
 					"kind": 32,
 					"kindString": "Variable",
@@ -54149,7 +52929,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2199
+						2253
 					]
 				}
 			],
@@ -54162,7 +52942,7 @@
 			]
 		},
 		{
-			"id": 2200,
+			"id": 2254,
 			"name": "\"scheduler/views/week-view.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -54172,7 +52952,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/views/week-view.d.ts",
 			"children": [
 				{
-					"id": 2201,
+					"id": 2255,
 					"name": "WeekView",
 					"kind": 32,
 					"kindString": "Variable",
@@ -54205,7 +52985,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2201
+						2255
 					]
 				}
 			],
@@ -54218,7 +52998,7 @@
 			]
 		},
 		{
-			"id": 2202,
+			"id": 2256,
 			"name": "\"scheduler/views/work-week-view.d\"",
 			"kind": 1,
 			"kindString": "External module",
@@ -54228,7 +53008,7 @@
 			"originalName": "D:/NativeReact/EditorWindowCustomizations/AfterReviewCorrections-forEvent/ForPR/react-schedule-component/src/scheduler/views/work-week-view.d.ts",
 			"children": [
 				{
-					"id": 2203,
+					"id": 2257,
 					"name": "WorkWeekView",
 					"kind": 32,
 					"kindString": "Variable",
@@ -54261,7 +53041,7 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2203
+						2257
 					]
 				}
 			],
@@ -54282,36 +53062,36 @@
 				1,
 				162,
 				164,
-				224,
-				226,
-				228,
-				230,
-				232,
-				234,
-				236,
-				238,
-				240,
-				242,
-				244,
-				2305,
-				2307,
-				2309,
-				2311,
-				2320,
-				255,
-				257,
-				259,
-				266,
-				268,
-				270,
-				272,
-				274,
-				276,
 				177,
-				196,
-				201,
-				206,
-				215,
+				179,
+				181,
+				183,
+				185,
+				187,
+				189,
+				191,
+				193,
+				195,
+				197,
+				2258,
+				2260,
+				2262,
+				2264,
+				2273,
+				208,
+				210,
+				212,
+				219,
+				221,
+				223,
+				225,
+				227,
+				229,
+				231,
+				250,
+				255,
+				260,
+				269,
 				278,
 				284,
 				306,
@@ -54346,15 +53126,15 @@
 				1220,
 				1226,
 				1513,
-				2204,
-				2234,
-				2293,
-				2295,
-				2194,
-				2196,
-				2198,
-				2200,
-				2202
+				2147,
+				2177,
+				2236,
+				2238,
+				2248,
+				2250,
+				2252,
+				2254,
+				2256
 			]
 		}
 	]

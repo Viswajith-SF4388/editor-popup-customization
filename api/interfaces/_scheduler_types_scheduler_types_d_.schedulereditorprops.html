@@ -2367,16 +2367,19 @@ img {
 			<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html" class="tsd-kind-icon">Scheduler<wbr>Editor<wbr>Props</a>
 			<ul>
 				<li class=" tsd-kind-property tsd-parent-kind-interface">
+					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#action" class="tsd-kind-icon">action</a>
+				</li>
+				<li class=" tsd-kind-property tsd-parent-kind-interface">
 					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#children" class="tsd-kind-icon">children</a>
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-interface">
 					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#classname" class="tsd-kind-icon">class<wbr>Name</a>
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-interface">
-					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#dialogprops" class="tsd-kind-icon">dialog<wbr>Props</a>
+					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#data" class="tsd-kind-icon">data</a>
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-interface">
-					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#editor" class="tsd-kind-icon">editor</a>
+					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#dialogprops" class="tsd-kind-icon">dialog<wbr>Props</a>
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-interface">
 					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#fields" class="tsd-kind-icon">fields</a>
@@ -2388,10 +2391,10 @@ img {
 					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#open" class="tsd-kind-icon">open</a>
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-interface">
-					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#style" class="tsd-kind-icon">style</a>
+					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#originaldata" class="tsd-kind-icon">original<wbr>Data</a>
 				</li>
 				<li class=" tsd-kind-property tsd-parent-kind-interface">
-					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#validationrules" class="tsd-kind-icon">validation<wbr>Rules</a>
+					<a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#style" class="tsd-kind-icon">style</a>
 				</li>
 			</ul>
 		</li>
@@ -2422,15 +2425,16 @@ img {
 					<section class="tsd-index-section ">
 						<h3>Properties</h3>
 						<ul class="tsd-index-list">
+							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#action" class="tsd-kind-icon">action</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#children" class="tsd-kind-icon">children</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#classname" class="tsd-kind-icon">class<wbr>Name</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#data" class="tsd-kind-icon">data</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#dialogprops" class="tsd-kind-icon">dialog<wbr>Props</a></li>
-							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#editor" class="tsd-kind-icon">editor</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#fields" class="tsd-kind-icon">fields</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#onclose" class="tsd-kind-icon">on<wbr>Close</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#open" class="tsd-kind-icon">open</a></li>
+							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#originaldata" class="tsd-kind-icon">original<wbr>Data</a></li>
 							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#style" class="tsd-kind-icon">style</a></li>
-							<li class="tsd-kind-property tsd-parent-kind-interface"><a href="_scheduler_types_scheduler_types_d_.schedulereditorprops.html#validationrules" class="tsd-kind-icon">validation<wbr>Rules</a></li>
 						</ul>
 					</section>
 				</div>
@@ -2439,12 +2443,27 @@ img {
 		<section class="tsd-panel-group tsd-member-group ">
 			<h2>Properties</h2>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
+				<a name="action" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> action</h3>
+				<div class="tsd-signature tsd-kind-icon">action<span class="tsd-signature-symbol">:</span> <a href="../modules/_scheduler_types_enums_d_.html#crudaction" class="tsd-signature-type">CrudAction</a></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1364</li>
+					</ul>
+				</aside>
+				<div class="tsd-comment tsd-typography">
+					<div class="lead">
+						<p>Editor mode: &#39;cell&#39; for new event, &#39;event&#39; for editing existing</p>
+					</div>
+				</div>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
 				<a name="children" class="tsd-anchor"></a>
 				<h3><span class="tsd-flag ts-flagOptional">Optional</span> children</h3>
 				<div class="tsd-signature tsd-kind-icon">children<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">React.ReactNode</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1411</li>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1384</li>
 					</ul>
 				</aside>
 				<div class="tsd-comment tsd-typography">
@@ -2459,7 +2478,7 @@ img {
 				<div class="tsd-signature tsd-kind-icon">class<wbr>Name<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1403</li>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1376</li>
 					</ul>
 				</aside>
 				<div class="tsd-comment tsd-typography">
@@ -2469,12 +2488,27 @@ img {
 				</div>
 			</section>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
+				<a name="data" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> data</h3>
+				<div class="tsd-signature tsd-kind-icon">data<span class="tsd-signature-symbol">:</span> <a href="_scheduler_types_scheduler_types_d_.eventmodel.html" class="tsd-signature-type">EventModel</a></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1356</li>
+					</ul>
+				</aside>
+				<div class="tsd-comment tsd-typography">
+					<div class="lead">
+						<p>Event data to be saved.</p>
+					</div>
+				</div>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
 				<a name="dialogprops" class="tsd-anchor"></a>
 				<h3><span class="tsd-flag ts-flagOptional">Optional</span> dialog<wbr>Props</h3>
 				<div class="tsd-signature tsd-kind-icon">dialog<wbr>Props<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">DialogProps</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1391</li>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1368</li>
 					</ul>
 				</aside>
 				<div class="tsd-comment tsd-typography">
@@ -2484,27 +2518,12 @@ img {
 				</div>
 			</section>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
-				<a name="editor" class="tsd-anchor"></a>
-				<h3>editor</h3>
-				<div class="tsd-signature tsd-kind-icon">editor<span class="tsd-signature-symbol">:</span> <a href="_scheduler_types_scheduler_types_d_.schedulereditorstate.html" class="tsd-signature-type">SchedulerEditorState</a></div>
-				<aside class="tsd-sources">
-					<ul>
-						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1387</li>
-					</ul>
-				</aside>
-				<div class="tsd-comment tsd-typography">
-					<div class="lead">
-						<p>Editor state.</p>
-					</div>
-				</div>
-			</section>
-			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
 				<a name="fields" class="tsd-anchor"></a>
 				<h3><span class="tsd-flag ts-flagOptional">Optional</span> fields</h3>
 				<div class="tsd-signature tsd-kind-icon">fields<span class="tsd-signature-symbol">:</span> <a href="_scheduler_types_scheduler_types_d_.schedulereditorfield.html" class="tsd-signature-type">SchedulerEditorField</a><span class="tsd-signature-symbol">[]</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1395</li>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1372</li>
 					</ul>
 				</aside>
 				<div class="tsd-comment tsd-typography">
@@ -2515,11 +2534,11 @@ img {
 			</section>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
 				<a name="onclose" class="tsd-anchor"></a>
-				<h3>on<wbr>Close</h3>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> on<wbr>Close</h3>
 				<div class="tsd-signature tsd-kind-icon">on<wbr>Close<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol"> =&gt; </span><span class="tsd-signature-type">void</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1383</li>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1352</li>
 					</ul>
 				</aside>
 				<div class="tsd-comment tsd-typography">
@@ -2545,11 +2564,11 @@ img {
 			</section>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
 				<a name="open" class="tsd-anchor"></a>
-				<h3>open</h3>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> open</h3>
 				<div class="tsd-signature tsd-kind-icon">open<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">boolean</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1379</li>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1348</li>
 					</ul>
 				</aside>
 				<div class="tsd-comment tsd-typography">
@@ -2559,32 +2578,32 @@ img {
 				</div>
 			</section>
 			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
+				<a name="originaldata" class="tsd-anchor"></a>
+				<h3><span class="tsd-flag ts-flagOptional">Optional</span> original<wbr>Data</h3>
+				<div class="tsd-signature tsd-kind-icon">original<wbr>Data<span class="tsd-signature-symbol">:</span> <a href="_scheduler_types_scheduler_types_d_.eventmodel.html" class="tsd-signature-type">EventModel</a></div>
+				<aside class="tsd-sources">
+					<ul>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1360</li>
+					</ul>
+				</aside>
+				<div class="tsd-comment tsd-typography">
+					<div class="lead">
+						<p>Original event data when editing (undefined when creating new event)</p>
+					</div>
+				</div>
+			</section>
+			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
 				<a name="style" class="tsd-anchor"></a>
 				<h3><span class="tsd-flag ts-flagOptional">Optional</span> style</h3>
 				<div class="tsd-signature tsd-kind-icon">style<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">CSSProperties</span></div>
 				<aside class="tsd-sources">
 					<ul>
-						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1407</li>
+						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1380</li>
 					</ul>
 				</aside>
 				<div class="tsd-comment tsd-typography">
 					<div class="lead">
 						<p>Inline styles applied to the editor container.</p>
-					</div>
-				</div>
-			</section>
-			<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface">
-				<a name="validationrules" class="tsd-anchor"></a>
-				<h3><span class="tsd-flag ts-flagOptional">Optional</span> validation<wbr>Rules</h3>
-				<div class="tsd-signature tsd-kind-icon">validation<wbr>Rules<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">ValidationRules</span></div>
-				<aside class="tsd-sources">
-					<ul>
-						<li>Defined in src/scheduler/types/scheduler-types.d.ts:1399</li>
-					</ul>
-				</aside>
-				<div class="tsd-comment tsd-typography">
-					<div class="lead">
-						<p>Validation rules executed by the Form. Invalid fields block save and show messages.</p>
 					</div>
 				</div>
 			</section>
